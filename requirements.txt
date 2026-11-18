@@ -1,0 +1,13 @@
+notebook
+faker
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+nltk
+tensorflow
+plotly
+streamlit
+requests

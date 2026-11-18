@@ -1,0 +1,9 @@
+api_key.txt
+claude_key.txt
+*.key
+.env
+.venv/
+venv/
+.idea/
+__pycache__/
+.ipynb_checkpoints/

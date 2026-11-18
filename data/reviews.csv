@@ -1,0 +1,1476 @@
+ReviewID,OrderID,CustomerID,ProductID,ReviewDate,ReviewText,Rating
+1,10069,C0945,P13,2025-11-05,I am very satisfied. The customer service was friendly and helpful. I will definitely order again.,5
+2,10101,C0651,P25,2025-11-05,@techstore Great purchase. Easy to use and very quiet. Five stars from me.,4
+3,10102,C0925,P27,2025-11-04,@techstore Very happy with my order. Easy to use and very quiet. Will buy again.,5
+4,10118,C0938,P05,2025-11-05,Really good product. Better than I expected. Totally worth it.,5
+5,10120,C0751,P11,2025-11-09,I love this product. Super easy to set up. Good job.,5
+6,10144,C0110,P03,2025-11-07,Awesome store. Great price and excellent quality. Five stars from me.,5
+7,10153,C1501,P06,2025-11-09,"Perfect, exactly what I wanted. Better than I expected. Five stars from me.",5
+8,10157,C0243,P27,2025-11-07,"Perfect, exactly what I wanted. It works perfectly and looks nice. Totally worth it. More photos at https://example.com/reviews",5
+9,10161,C0310,P04,2025-11-10,Very happy with my order. Super easy to set up. My family is happy too.,5
+10,10185,C0459,P14,2025-11-12,@techstore I am very satisfied. The courier was kind and the delivery was fast. I will definitely order again.,4
+11,10231,C1348,P24,2025-11-14,"Perfect, exactly what I wanted. The courier was kind and the delivery was fast. My family is happy too.",4
+12,10308,C1605,P23,2025-11-11,@techstore Standard product. The courier called in advance. Nothing unusual.,3
+13,10312,C0926,P23,2025-11-14,Best purchase this year. It arrived on time and well packed. I will definitely order again.,4
+14,10317,C1825,P24,2025-11-16,The order was delivered to the office. The colour is a bit different. Maybe I will update the review later.,3
+15,10362,C1083,P24,2025-11-17,Amazing value for the price. Easy to use and very quiet. Highly recommended.,5
+16,10408,C1666,P20,2025-11-14,I am very satisfied. Easy to use and very quiet. Five stars from me. #onlineshop,5
+17,10419,C1036,P24,2025-11-15,The order was delivered to the office. I expected a longer cable. No other comments. More photos at https://example.com/reviews,3
+18,10423,C0504,P24,2025-11-17,BEST PURCHASE THIS YEAR. SUPER EASY TO SET UP. HIGHLY RECOMMENDED.,5
+19,10425,C1451,P24,2025-11-17,Awesome store. Super easy to set up. My family is happy too.,5
+20,10440,C1927,P14,2025-11-17,Standard product. The manual is only in English. No other comments.,3
+21,10458,C0128,P13,2025-11-20,Awful. It is too noisy and feels cheap. I do not recommend it. More photos at https://example.com/reviews,2
+22,10481,C1017,P23,2025-11-17,Amazing value for the price. Easy to use and very quiet. I will definitely order again. #onlineshop,5
+23,10504,C0254,P26,2025-11-18,"Perfect, exactly what I wanted. The customer service was friendly and helpful. Totally worth it.",4
+24,10506,C1319,P24,2025-11-19,The box was a bit big. It has two modes. That is all for now.,3
+25,10527,C0987,P17,2025-11-21,Amazing value for the price. The courier was kind and the delivery was fast. I already recommended the store to a friend.,5
+26,10542,C1391,P22,2025-11-19,Delivery took three days. It is heavier than the old one. Normal order. #onlineshop,3
+27,10560,C1856,P20,2025-11-19,"Perfect, exactly what I wanted. It arrived on time and well packed. Highly recommended.",4
+28,10575,C0470,P24,2025-11-19,It does what the description says. It has two modes. Nothing more to add. More photos at https://example.com/reviews,3
+29,10585,C1809,P24,2025-11-22,The order was delivered to the office. I expected a longer cable. Nothing more to add.,3
+30,10589,C0109,P08,2025-11-23,Great purchase. The courier was kind and the delivery was fast. Five stars from me.,5
+31,10597,C1534,P20,2025-11-22,Really good product. Better than I expected. My family is happy too. More photos at https://example.com/reviews,4
+32,10603,C1924,P24,2025-11-18,Very happy with my order. It works perfectly and looks nice. Thank you.,5
+33,10607,C0249,P06,2025-11-21,Bad experience. The customer service ignored my problem. Avoid it.,1
+34,10611,C0038,P24,2025-11-21,Standard product. The colour is a bit different. That is all for now.,3
+35,10619,C1697,P26,2025-11-21,Best purchase this year. The customer service was friendly and helpful. Good job.,5
+36,10633,C0588,P06,2025-11-20,It is an average product. It is the second one I buy. Normal order.,3
+37,10647,C0171,P04,2025-11-20,"Perfect, exactly what I wanted. The courier was kind and the delivery was fast. Five stars from me.",4
+38,10668,C1790,P15,2025-11-23,Awesome store. The courier was kind and the delivery was fast. Totally worth it.,5
+39,10675,C0728,P09,2025-11-20,Horrible purchase. The customer service ignored my problem. I want my money back.,2
+40,10685,C0768,P09,2025-11-23,@techstore Amazing value for the price. Good quality and fast delivery. Will buy again.,5
+41,10695,C1923,P14,2025-11-21,I love this product. Easy to use and very quiet. I will definitely order again.,4
+42,10710,C0912,P24,2025-11-24,Really good product. Easy to use and very quiet. Worth every penny. #onlineshop,4
+43,10738,C0386,P25,2025-11-27,Delivery took three days. It is heavier than the old one. That is all for now.,3
+44,10762,C0418,P27,2025-11-27,Great purchase. Easy to use and very quiet. My family is happy too.,5
+45,10815,C0427,P27,2025-11-29,@techstore I love this product. Great price and excellent quality. I already recommended the store to a friend.,5
+46,10819,C1188,P03,2025-11-29,Awesome store. Better than I expected. Thank you. #onlineshop,5
+47,10834,C0999,P23,2025-11-29,I LOVE THIS PRODUCT. EASY TO USE AND VERY QUIET. MY FAMILY IS HAPPY TOO.,5
+48,10845,C1642,P13,2025-11-27,Excellent quality. The courier was kind and the delivery was fast. My family is happy too.,4
+49,10849,C1695,P05,2025-11-29,Not happy with this order. I had to pay for the return myself. I do not recommend it.,1
+50,10863,C1572,P10,2025-11-29,,4
+51,10887,C0184,P07,2025-11-26,"Perfect, exactly what I wanted. Great price and excellent quality. Will buy again.",5
+52,10898,C1533,P10,2025-11-29,It is an average product. The size is as described. Time will tell.,3
+53,10919,C1158,P16,2025-11-26,Excellent quality. The courier was kind and the delivery was fast. Highly recommended.,5
+54,10938,C1197,P11,2025-12-01,I love this product. Super easy to set up. Worth every penny.,5
+55,10978,C1764,P14,2025-11-26,I love this product. Great price and excellent quality. Highly recommended.,5
+56,10981,C1420,P18,2025-11-30,Best purchase this year. It arrived on time and well packed. Will buy again.,4
+57,10998,C1786,P20,2025-12-01,Amazing value for the price. The customer service was friendly and helpful. Highly recommended. #onlineshop,5
+58,11004,C1511,P24,2025-11-28,Very disappointed. It failed after the first week. One star.,1
+59,11032,C1003,P06,2025-12-01,The package came with a manual. The manual is only in English. No other comments.,3
+60,11033,C0728,P24,2025-11-29,Really good product. Super easy to set up. Good job.,5
+61,11054,C0221,P24,2025-11-27,Amazing value for the price. It arrived on time and well packed. Will buy again.,5
+62,11069,C0489,P11,2025-11-29,I am very satisfied. It arrived on time and well packed. My family is happy too.,5
+63,11106,C0394,P24,2025-11-28,It is an average product. It is the second one I buy. No other comments. More photos at https://example.com/reviews,3
+64,11200,C0531,P02,2025-11-29,@techstore Excellent quality. The courier was kind and the delivery was fast. Highly recommended.,5
+65,11204,C1864,P27,2025-12-04,I ordered it for my parents. I expected a longer cable. Time will tell.,3
+66,11218,C1255,P27,2025-12-04,I am very satisfied. Super easy to set up. I already recommended the store to a friend.,5
+67,11245,C1530,P09,2025-12-05,I am very satisfied. Easy to use and very quiet. Will buy again.,5
+68,11257,C0592,P25,2025-11-30,I am very satisfied. Super easy to set up. Highly recommended.,4
+69,11289,C0823,P04,2025-12-01,"Not what I expected, sadly. The box was damaged and a part was missing. One star.",2
+70,11304,C1895,P05,2025-12-04,Waste of money. It is too noisy and feels cheap. Never again.,1
+71,11307,C1106,P05,2025-12-03,Amazing value for the price. Fast delivery and great price. Good job. #onlineshop,5
+72,11311,C0427,P11,2025-12-05,"Perfect, exactly what I wanted. Fast delivery and great price. Thank you.",5
+73,11314,C1598,P13,2025-12-03,Excellent quality. Fast delivery and great price. Thank you.,5
+74,11336,C0389,P20,2025-12-02,"Perfect, exactly what I wanted. Fast delivery and great price. Will buy again. #onlineshop",4
+75,11350,C1825,P12,2025-12-01,It does what the description says. The manual is only in English. No other comments.,3
+76,11373,C1916,P05,2025-12-01,Awesome store. Super easy to set up. I will definitely order again.,4
+77,11395,C0563,P06,2025-12-01,The box was a bit big. It is heavier than the old one. It is what it is. More photos at https://example.com/reviews,3
+78,11400,C0413,P24,2025-12-04,"Perfect, exactly what I wanted. It arrived on time and well packed. Highly recommended.",4
+79,11419,C1054,P23,2025-12-05,Delivery took three days. It has two modes. Time will tell.,3
+80,11489,C0252,P08,2025-12-06,I am very satisfied. Great price and excellent quality. Will buy again.,4
+81,11489,C0252,P03,2025-12-05,It is an average product. Used it only twice so far. Normal order.,3
+82,11501,C1214,P14,2025-12-02,Amazing value for the price. It works perfectly and looks nice. Five stars from me.,5
+83,11520,C1556,P22,2025-12-03,"Perfect, exactly what I wanted. The courier was kind and the delivery was fast. My family is happy too.",4
+84,11526,C0775,P24,2025-12-05,Delivery took three days. It has two modes. Maybe I will update the review later.,3
+85,11530,C0907,P06,2025-12-05,Awesome store. Easy to use and very quiet. My family is happy too.,5
+86,11533,C0268,P24,2025-12-05,Horrible purchase. The buttons stopped working. Total disappointment.,2
+87,11583,C1330,P04,2025-12-06,"Perfect, exactly what I wanted. Easy to use and very quiet. Totally worth it.",5
+88,11610,C0469,P10,2025-12-07,The box was a bit big. I expected a longer cable. I have no opinion yet.,3
+89,11660,C1770,P09,2025-12-06,Waste of money. Late delivery and nobody answered the phone. I want my money back. #onlineshop,1
+90,11678,C0410,P06,2025-12-10,Great purchase. It works perfectly and looks nice. I already recommended the store to a friend.,5
+91,11690,C0739,P27,2025-12-05,@techstore I love this product. Fast delivery and great price. Good job.,4
+92,11737,C1795,P06,2025-12-09,"Not what I expected, sadly. I had to pay for the return myself. Never again.",2
+93,11761,C0480,P24,2025-12-11,"Horrible purchase. Two weeks of waiting, very late delivery. Bad service.",2
+94,11767,C1591,P27,2025-12-07,Terrible product. The late delivery ruined my Christmas gift. Very annoying. #onlineshop,1
+95,11778,C1252,P06,2025-12-08,I ordered it for my parents. I expected a longer cable. Time will tell.,3
+96,11802,C0290,P24,2025-12-11,Awesome store. The courier was kind and the delivery was fast. Will buy again.,4
+97,11812,C0700,P06,2025-12-11,Best purchase this year. It arrived on time and well packed. Worth every penny.,5
+98,11822,C0765,P11,2025-12-10,"Perfect, exactly what I wanted. The courier was kind and the delivery was fast. Thank you. #onlineshop",4
+99,11830,C0840,P05,2025-12-13,Awful. The late delivery ruined my Christmas gift. I will not order again.,1
+100,11834,C0153,P27,2025-12-08,"Awful. Two weeks of waiting, very late delivery. Very annoying.",2
+101,11857,C0422,P24,2025-12-10,Excellent quality. It arrived on time and well packed. I already recommended the store to a friend.,5
+102,11889,C1324,P14,2025-12-08,"Not what I expected, sadly. Late delivery, it arrived after the holidays. One star.",2
+103,11890,C1733,P24,2025-12-08,@techstore Not happy with this order. The late delivery ruined my Christmas gift. I do not recommend it.,1
+104,11904,C0157,P10,2025-12-13,"Poor quality. Two weeks of waiting, very late delivery. I am angry.",2
+105,11924,C0314,P24,2025-12-13,The product arrived on Monday. It is the second one I buy. We will see how long it lasts.,3
+106,11929,C0607,P11,2025-12-10,"Very disappointed. Late delivery, it arrived after the holidays. I will not order again.",2
+107,11940,C0123,P08,2025-12-09,Bad experience. The late delivery ruined my Christmas gift. Bad service.,2
+108,11948,C1088,P26,2025-12-09,Great purchase. Good quality and fast delivery. I already recommended the store to a friend.,5
+109,12014,C0221,P21,2025-12-14,Very happy with my order. It works perfectly and looks nice. Highly recommended.,5
+110,12037,C1146,P27,2025-12-15,Very happy with my order. Better than I expected. Will buy again.,4
+111,12041,C0691,P07,2025-12-14,I love this product. Easy to use and very quiet. Worth every penny.,5
+112,12069,C0917,P11,2025-12-17,Great purchase. Good quality and fast delivery. Five stars from me.,5
+113,12088,C0157,P27,2025-12-12,Really good product. Super easy to set up. I already recommended the store to a friend.,5
+114,12094,C0035,P21,2025-12-15,Very happy with my order. Great price and excellent quality. Thank you.,4
+115,12109,C0519,P10,2025-12-16,@techstore Very happy with my order. The courier was kind and the delivery was fast. Highly recommended.,5
+116,12135,C1736,P11,2025-12-15,I regret buying it. The late delivery was a big problem for me. Total disappointment.,1
+117,12137,C0439,P24,2025-12-13,Great purchase. Fast delivery and great price. Totally worth it.,4
+118,12139,C1046,P05,2025-12-18,The order was delivered to the office. It is the second one I buy. I have no opinion yet.,3
+119,12145,C0991,P04,2025-12-16,Bad experience. Late delivery and nobody answered the phone. I want my money back. #onlineshop,1
+120,12152,C0369,P04,2025-12-18,"Bad experience. Two weeks of waiting, very late delivery. Total disappointment. More photos at https://example.com/reviews",1
+121,12156,C1383,P06,2025-12-18,"Horrible purchase. Terrible delay, late delivery again. Bad service.",1
+122,12189,C1402,P18,2025-12-18,"@techstore Poor quality. Two weeks of waiting, very late delivery. Avoid it.",1
+123,12263,C0025,P09,2025-12-19,Excellent quality. Great price and excellent quality. Highly recommended.,4
+124,12264,C1763,P26,2025-12-17,Poor quality. The late delivery ruined my Christmas gift. Very annoying.,1
+125,12281,C0362,P24,2025-12-16,@techstore The product arrived on Monday. The courier called in advance. That is all for now.,3
+126,12282,C0406,P13,2025-12-17,@techstore Amazing value for the price. It arrived on time and well packed. My family is happy too.,5
+127,12294,C1073,P23,2025-12-20,"Terrible product. Late delivery, it arrived after the holidays. Avoid it. #onlineshop",1
+128,12297,C0025,P06,2025-12-18,"Terrible product. Late delivery, it arrived after the holidays. Very annoying.",1
+129,12299,C0762,P24,2025-12-16,"Bad experience. Late delivery, it arrived after the holidays. Never again.",1
+130,12337,C0978,P24,2025-12-21,"Not happy with this order. Terrible delay, late delivery again. Never again.",2
+131,12410,C1596,P24,2025-12-21,I am very satisfied. The customer service was friendly and helpful. Highly recommended.,4
+132,12413,C1403,P14,2025-12-18,Bad experience. The buttons stopped working. Bad service.,1
+133,12437,C0283,P17,2025-12-19,Best purchase this year. Easy to use and very quiet. I will definitely order again.,5
+134,12440,C0858,P06,2025-12-22,Horrible purchase. Late delivery and nobody answered the phone. I will not order again. More photos at https://example.com/reviews,2
+135,12442,C0156,P23,2025-12-21,Great purchase. Fast delivery and great price. Good job.,5
+136,12458,C1443,P07,2025-12-23,"I regret buying it. Two weeks of waiting, very late delivery. Avoid it.",2
+137,12465,C1088,P17,2025-12-20,Very happy with my order. The courier was kind and the delivery was fast. I already recommended the store to a friend. #onlineshop,4
+138,12490,C0867,P26,2025-12-20,"@techstore Horrible purchase. Terrible delay, late delivery again. Total disappointment.",2
+139,12491,C0069,P14,2025-12-25,Not happy with this order. The late delivery ruined my Christmas gift. I will not order again. #onlineshop,2
+140,12493,C1192,P24,2025-12-25,"Very disappointed. Terrible delay, late delivery again. Never again.",2
+141,12495,C1807,P21,2025-12-23,"Awful. Late delivery, it arrived after the holidays. Never again.",1
+142,12495,C1807,P20,2025-12-24,,1
+143,12500,C0678,P06,2025-12-23,The package came with a manual. The size is as described. No other comments. More photos at https://example.com/reviews,3
+144,12508,C1866,P27,2025-12-21,I have used it for one week. The price is average. I have no opinion yet.,3
+145,12513,C0307,P05,2025-12-25,I am very satisfied. Great price and excellent quality. Good job.,5
+146,12514,C1771,P11,2025-12-20,REALLY GOOD PRODUCT. BETTER THAN I EXPECTED. WILL BUY AGAIN.,5
+147,12586,C0116,P04,2025-12-22,"Perfect, exactly what I wanted. Easy to use and very quiet. Thank you. More photos at https://example.com/reviews",5
+148,12592,C1105,P14,2025-12-23,@techstore Great purchase. Good quality and fast delivery. Worth every penny.,5
+149,12594,C1024,P14,2025-12-24,"Waste of money. Two weeks of waiting, very late delivery. I want my money back. More photos at https://example.com/reviews",2
+150,12594,C1024,P24,2025-12-24,"Bad experience. Late delivery, it arrived after the holidays. I do not recommend it.",1
+151,12595,C1534,P11,2025-12-26,@techstore I am very satisfied. The customer service was friendly and helpful. Five stars from me.,5
+152,12620,C0858,P14,2025-12-25,"Bad experience. Terrible delay, late delivery again. I do not recommend it.",1
+153,12633,C0035,P24,2025-12-22,Amazing value for the price. The customer service was friendly and helpful. Totally worth it.,5
+154,12641,C0527,P06,2025-12-27,Horrible purchase. The late delivery was a big problem for me. I want my money back.,2
+155,12646,C0409,P04,2025-12-27,Really good product. Great price and excellent quality. I already recommended the store to a friend.,5
+156,12650,C0641,P21,2025-12-23,Awesome store. It arrived on time and well packed. Will buy again.,5
+157,12651,C0436,P15,2025-12-23,"HORRIBLE PURCHASE. TWO WEEKS OF WAITING, VERY LATE DELIVERY. I AM ANGRY.",1
+158,12669,C1479,P11,2025-12-27,"Waste of money. Late delivery, it arrived after the holidays. I do not recommend it. #onlineshop",1
+159,12683,C0728,P22,2025-12-24,Bad experience. The late delivery was a big problem for me. Very annoying.,2
+160,12708,C0268,P21,2025-12-24,Awful. It looks used and scratched. Never again.,2
+161,12757,C0124,P14,2025-12-25,Bad experience. The quality is worse than expected. I want my money back. #onlineshop,2
+162,12762,C1036,P20,2025-12-28,"Very disappointed. Two weeks of waiting, very late delivery. Avoid it.",1
+163,12784,C0927,P22,2025-12-28,I have used it for one week. It has two modes. Nothing more to add.,3
+164,12802,C1448,P26,2025-12-29,Waste of money. The late delivery was a big problem for me. One star. #onlineshop,1
+165,12840,C1255,P16,2025-12-29,Best purchase this year. It arrived on time and well packed. Good job.,5
+166,12842,C0358,P03,2025-12-26,"Perfect, exactly what I wanted. It arrived on time and well packed. Highly recommended.",5
+167,12877,C1791,P06,2026-01-01,"Perfect, exactly what I wanted. Great price and excellent quality. My family is happy too.",5
+168,12900,C1558,P18,2025-12-27,@techstore The package came with a manual. The colour is a bit different. Maybe I will update the review later.,3
+169,12906,C0424,P27,2026-01-02,,5
+170,12910,C1239,P11,2025-12-29,"@techstore Perfect, exactly what I wanted. Better than I expected. Good job.",4
+171,12915,C1236,P24,2025-12-31,Standard product. It has two modes. Time will tell.,3
+172,12916,C1106,P24,2026-01-02,Great purchase. Better than I expected. I will definitely order again. More photos at https://example.com/reviews,4
+173,12919,C1271,P24,2025-12-30,The package came with a manual. It has two modes. Time will tell.,3
+174,12934,C1236,P15,2025-12-28,The package came with a manual. The courier called in advance. Time will tell. More photos at https://example.com/reviews,3
+175,12941,C0841,P08,2025-12-28,Best purchase this year. The customer service was friendly and helpful. Good job.,5
+176,12944,C1171,P11,2025-12-30,Amazing value for the price. Easy to use and very quiet. Five stars from me.,5
+177,12951,C1538,P04,2026-01-01,Really good product. Super easy to set up. I already recommended the store to a friend.,4
+178,12955,C1237,P05,2025-12-31,I love this product. Great price and excellent quality. Totally worth it.,5
+179,12978,C0449,P23,2025-12-29,Awesome store. Easy to use and very quiet. Worth every penny.,5
+180,12990,C0780,P27,2026-01-03,Waste of money. I had to pay for the return myself. Avoid it.,2
+181,12999,C1869,P10,2026-01-03,I am very satisfied. The courier was kind and the delivery was fast. I will definitely order again.,4
+182,13020,C1207,P12,2026-01-01,The order was delivered to the office. The price is average. Time will tell. More photos at https://example.com/reviews,3
+183,13034,C1840,P15,2026-01-02,I am very satisfied. The customer service was friendly and helpful. Thank you.,5
+184,13060,C0221,P06,2026-01-02,The package came with a manual. The price is average. That is all for now.,3
+185,13062,C1648,P25,2026-01-01,The order was delivered to the office. I expected a longer cable. That is all for now.,3
+186,13064,C1596,P05,2026-01-02,@techstore Awesome store. Fast delivery and great price. Thank you.,4
+187,13067,C1537,P26,2026-01-03,Amazing value for the price. The customer service was friendly and helpful. Highly recommended.,5
+188,13073,C0234,P22,2026-01-04,The order was delivered to the office. The courier called in advance. That is all for now.,3
+189,13091,C1916,P24,2026-01-01,I am very satisfied. It works perfectly and looks nice. Will buy again.,4
+190,13092,C1610,P21,2026-01-01,Great purchase. Better than I expected. I already recommended the store to a friend.,5
+191,13095,C1220,P05,2026-01-03,The order was delivered to the office. I expected a longer cable. That is all for now.,3
+192,13097,C1093,P22,2026-01-03,GREAT PURCHASE. SUPER EASY TO SET UP. MY FAMILY IS HAPPY TOO.,5
+193,13102,C0579,P04,2026-01-05,Really good product. Super easy to set up. Will buy again. #onlineshop,5
+194,13125,C1194,P03,2026-01-06,Great purchase. Fast delivery and great price. Highly recommended.,5
+195,13135,C1413,P24,2026-01-07,Very happy with my order. It arrived on time and well packed. Will buy again.,4
+196,13145,C1313,P05,2026-01-07,Very happy with my order. The courier was kind and the delivery was fast. Will buy again.,4
+197,13158,C0390,P11,2026-01-03,It does what the description says. The price is average. I have no opinion yet. #onlineshop,3
+198,13160,C1435,P02,2026-01-04,Really good product. Better than I expected. I already recommended the store to a friend.,4
+199,13164,C0595,P26,2026-01-04,I am very satisfied. Great price and excellent quality. I will definitely order again.,5
+200,13192,C1840,P20,2026-01-08,I am very satisfied. It arrived on time and well packed. Will buy again.,5
+201,13204,C0978,P19,2026-01-08,I love this product. It works perfectly and looks nice. Will buy again.,5
+202,13229,C0459,P21,2026-01-05,I am very satisfied. It works perfectly and looks nice. Thank you. More photos at https://example.com/reviews,5
+203,13239,C1679,P21,2026-01-08,Not happy with this order. The box was damaged and a part was missing. Avoid it. #onlineshop,1
+204,13281,C1642,P16,2026-01-09,I am very satisfied. It works perfectly and looks nice. Will buy again. More photos at https://example.com/reviews,5
+205,13310,C1585,P24,2026-01-11,The box was a bit big. I expected a longer cable. Maybe I will update the review later.,3
+206,13311,C0199,P24,2026-01-09,It is an average product. It is the second one I buy. I have no opinion yet.,3
+207,13315,C1764,P24,2026-01-10,@techstore The product arrived on Monday. The manual is only in English. Normal order.,3
+208,13339,C0544,P03,2026-01-12,Great purchase. The customer service was friendly and helpful. Thank you. #onlineshop,5
+209,13361,C1055,P23,2026-01-10,Awesome store. Great price and excellent quality. Five stars from me.,5
+210,13364,C1464,P24,2026-01-13,Very happy with my order. It works perfectly and looks nice. Totally worth it. More photos at https://example.com/reviews,4
+211,13374,C0982,P20,2026-01-10,The box was a bit big. The courier called in advance. Time will tell. More photos at https://example.com/reviews,3
+212,13427,C1445,P07,2026-01-11,Amazing value for the price. Good quality and fast delivery. Worth every penny. More photos at https://example.com/reviews,5
+213,13453,C1017,P05,2026-01-14,Really good product. Good quality and fast delivery. I will definitely order again.,5
+214,13454,C1155,P18,2026-01-17,The order was delivered to the office. Used it only twice so far. I have no opinion yet.,3
+215,13490,C1381,P22,2026-01-18,Awesome store. Super easy to set up. I will definitely order again.,5
+216,13516,C0551,P06,2026-01-17,It is an average product. The manual is only in English. Nothing unusual.,3
+217,13520,C0321,P04,2026-01-15,Excellent quality. Great price and excellent quality. My family is happy too.,5
+218,13538,C1054,P16,2026-01-14,Very happy with my order. Good quality and fast delivery. Worth every penny. More photos at https://example.com/reviews,5
+219,13544,C1632,P06,2026-01-16,Best purchase this year. The courier was kind and the delivery was fast. I will definitely order again.,4
+220,13544,C1632,P02,2026-01-15,THE PRODUCT ARRIVED ON MONDAY. USED IT ONLY TWICE SO FAR. NOTHING MORE TO ADD.,3
+221,13555,C0612,P05,2026-01-19,Awesome store. Easy to use and very quiet. Totally worth it.,5
+222,13558,C0417,P26,2026-01-17,@techstore Excellent quality. The customer service was friendly and helpful. Totally worth it.,5
+223,13563,C1527,P05,2026-01-18,I am very satisfied. The courier was kind and the delivery was fast. Five stars from me.,5
+224,13589,C0881,P22,2026-01-21,Excellent quality. It arrived on time and well packed. Totally worth it.,4
+225,13601,C0887,P03,2026-01-21,The package came with a manual. Used it only twice so far. I have no opinion yet.,3
+226,13606,C0510,P05,2026-01-22,Awesome store. Fast delivery and great price. Worth every penny.,4
+227,13635,C1976,P21,2026-01-18,The package came with a manual. It is heavier than the old one. Time will tell. More photos at https://example.com/reviews,3
+228,13643,C0702,P03,2026-01-23,Best purchase this year. Good quality and fast delivery. Will buy again. #onlineshop,4
+229,13687,C0362,P26,2026-01-24,Best purchase this year. Easy to use and very quiet. Will buy again. #onlineshop,5
+230,13693,C0972,P09,2026-01-21,REALLY GOOD PRODUCT. THE COURIER WAS KIND AND THE DELIVERY WAS FAST. HIGHLY RECOMMENDED.,5
+231,13710,C0007,P26,2026-01-21,I am very satisfied. Good quality and fast delivery. Worth every penny.,5
+232,13728,C1894,P06,2026-01-25,The product arrived on Monday. The courier called in advance. Time will tell.,3
+233,13737,C0583,P06,2026-01-25,Awesome store. Great price and excellent quality. My family is happy too.,5
+234,13769,C1468,P24,2026-01-26,Really good product. Better than I expected. Will buy again.,5
+235,13773,C0323,P08,2026-01-24,I am very satisfied. Super easy to set up. Five stars from me.,5
+236,13798,C1380,P12,2026-01-29,Best purchase this year. It works perfectly and looks nice. Worth every penny. More photos at https://example.com/reviews,5
+237,13802,C1088,P25,2026-01-28,"Perfect, exactly what I wanted. It works perfectly and looks nice. Five stars from me.",4
+238,13804,C1479,P24,2026-01-24,Really good product. Great price and excellent quality. Thank you.,4
+239,13812,C1383,P20,2026-01-28,"Perfect, exactly what I wanted. Fast delivery and great price. Thank you.",5
+240,13840,C0237,P24,2026-01-28,Best purchase this year. Great price and excellent quality. Good job.,5
+241,13873,C0067,P11,2026-01-26,Excellent quality. It arrived on time and well packed. I will definitely order again.,4
+242,13877,C1300,P05,2026-01-30,The package came with a manual. The size is as described. Nothing unusual.,3
+243,13897,C0469,P11,2026-01-31,I am very satisfied. Great price and excellent quality. Five stars from me.,5
+244,13899,C1397,P20,2026-01-31,Excellent quality. Super easy to set up. I will definitely order again. More photos at https://example.com/reviews,4
+245,13907,C1241,P20,2026-01-28,Really good product. It works perfectly and looks nice. I already recommended the store to a friend.,5
+246,13912,C0764,P13,2026-01-27,Awesome store. Super easy to set up. My family is happy too.,5
+247,13941,C0800,P21,2026-01-27,"NOT WHAT I EXPECTED, SADLY. I HAD TO PAY FOR THE RETURN MYSELF. I WILL NOT ORDER AGAIN.",1
+248,13951,C0515,P20,2026-01-29,Awesome store. It arrived on time and well packed. Highly recommended.,4
+249,14007,C0063,P20,2026-01-29,Really good product. It arrived on time and well packed. Totally worth it.,5
+250,14009,C1286,P14,2026-01-31,Awesome store. The customer service was friendly and helpful. I will definitely order again.,5
+251,14011,C1070,P06,2026-02-02,Great purchase. The customer service was friendly and helpful. Totally worth it.,5
+252,14040,C1126,P24,2026-01-31,"Perfect, exactly what I wanted. It works perfectly and looks nice. Good job.",5
+253,14059,C0868,P24,2026-02-04,It is an average product. It is the second one I buy. No other comments.,3
+254,14088,C1300,P03,2026-02-04,I REGRET BUYING IT. THE BOX WAS DAMAGED AND A PART WAS MISSING. ONE STAR.,2
+255,14098,C1583,P20,2026-02-07,@techstore Great purchase. Good quality and fast delivery. Worth every penny.,5
+256,14111,C1197,P24,2026-02-02,I AM VERY SATISFIED. THE COURIER WAS KIND AND THE DELIVERY WAS FAST. I ALREADY RECOMMENDED THE STORE TO A FRIEND.,5
+257,14131,C1538,P25,2026-02-03,Great purchase. Super easy to set up. Thank you.,5
+258,14134,C1987,P25,2026-02-03,I ordered it for my parents. I expected a longer cable. I have no opinion yet.,3
+259,14152,C1260,P25,2026-02-06,Bad experience. The product arrived damaged. Never again.,1
+260,14189,C0449,P11,2026-02-06,Horrible purchase. The customer service ignored my problem. Never again. #onlineshop,1
+261,14194,C1943,P12,2026-02-07,"Perfect, exactly what I wanted. Great price and excellent quality. Will buy again.",5
+262,14215,C1295,P08,2026-02-09,Excellent quality. Easy to use and very quiet. Good job.,5
+263,14217,C1949,P18,2026-02-08,Very happy with my order. Easy to use and very quiet. Thank you. #onlineshop,4
+264,14230,C0206,P06,2026-02-07,Standard product. It has two modes. It is what it is.,3
+265,14255,C1565,P20,2026-02-07,Great purchase. It arrived on time and well packed. Good job. More photos at https://example.com/reviews,4
+266,14262,C1083,P10,2026-02-06,I ordered it for my parents. It is the second one I buy. It is what it is.,3
+267,14278,C1391,P26,2026-02-08,"Perfect, exactly what I wanted. Good quality and fast delivery. Highly recommended.",4
+268,14280,C1226,P24,2026-02-08,It is an average product. It is heavier than the old one. Nothing more to add. #onlineshop,3
+269,14288,C1716,P21,2026-02-08,@techstore Amazing value for the price. It works perfectly and looks nice. My family is happy too.,4
+270,14296,C1888,P11,2026-02-12,It is an average product. It is the second one I buy. I have no opinion yet.,3
+271,14302,C1809,P25,2026-02-07,I have used it for one week. It is heavier than the old one. No other comments.,3
+272,14339,C1294,P26,2026-02-08,I love this product. It works perfectly and looks nice. My family is happy too.,5
+273,14343,C0223,P11,2026-02-13,I am very satisfied. Better than I expected. Will buy again.,4
+274,14343,C0223,P06,2026-02-09,Excellent quality. Better than I expected. Highly recommended.,5
+275,14351,C0621,P13,2026-02-11,"Perfect, exactly what I wanted. It arrived on time and well packed. I already recommended the store to a friend.",5
+276,14357,C1278,P24,2026-02-12,It does what the description says. The price is average. That is all for now.,3
+277,14358,C1082,P15,2026-02-09,Amazing value for the price. Good quality and fast delivery. Five stars from me.,4
+278,14401,C1359,P24,2026-02-13,I love this product. The customer service was friendly and helpful. Highly recommended. #onlineshop,5
+279,14437,C0250,P24,2026-02-13,The product arrived on Monday. Used it only twice so far. That is all for now. #onlineshop,3
+280,14464,C1833,P24,2026-02-10,Great purchase. Better than I expected. Good job. #onlineshop,4
+281,14474,C0243,P24,2026-02-11,Standard product. It is the second one I buy. Time will tell.,3
+282,14477,C0003,P23,2026-02-13,@techstore Amazing value for the price. Super easy to set up. My family is happy too.,4
+283,14485,C1241,P07,2026-02-15,Best purchase this year. The courier was kind and the delivery was fast. Five stars from me.,5
+284,14490,C1189,P06,2026-02-12,@techstore Awesome store. Super easy to set up. Good job.,5
+285,14524,C1613,P06,2026-02-14,The product arrived on Monday. Used it only twice so far. No other comments. More photos at https://example.com/reviews,3
+286,14534,C1690,P27,2026-02-17,Very happy with my order. Good quality and fast delivery. Five stars from me.,5
+287,14602,C0153,P11,2026-02-19,EXCELLENT QUALITY. GOOD QUALITY AND FAST DELIVERY. FIVE STARS FROM ME.,5
+288,14627,C1226,P09,2026-02-18,Great purchase. Better than I expected. Will buy again.,5
+289,14631,C1493,P23,2026-02-16,Bad experience. The customer service ignored my problem. I will not order again.,1
+290,14643,C0035,P06,2026-02-15,Amazing value for the price. Fast delivery and great price. I will definitely order again.,5
+291,14649,C0447,P20,2026-02-18,It does what the description says. The size is as described. Normal order. More photos at https://example.com/reviews,3
+292,14685,C0323,P13,2026-02-20,Best purchase this year. Great price and excellent quality. Totally worth it.,5
+293,14709,C1681,P14,2026-02-19,Really good product. Great price and excellent quality. Thank you.,4
+294,14734,C0945,P26,2026-02-19,Excellent quality. Super easy to set up. Totally worth it.,5
+295,14744,C1413,P20,2026-02-21,"@techstore Perfect, exactly what I wanted. The courier was kind and the delivery was fast. Highly recommended.",5
+296,14748,C0788,P11,2026-02-21,I have used it for one week. It has two modes. It is what it is.,3
+297,14760,C1073,P22,2026-02-20,Very disappointed. The product arrived damaged. Total disappointment.,1
+298,14762,C0247,P03,2026-02-21,I love this product. It works perfectly and looks nice. My family is happy too.,4
+299,14777,C1046,P24,2026-02-18,Awful. It failed after the first week. I am angry.,1
+300,14787,C0156,P23,2026-02-19,I love this product. The courier was kind and the delivery was fast. Will buy again. #onlineshop,5
+301,14800,C0972,P25,2026-02-19,THE PRODUCT ARRIVED ON MONDAY. IT IS HEAVIER THAN THE OLD ONE. I HAVE NO OPINION YET.,3
+302,14804,C1139,P06,2026-02-19,@techstore Great purchase. It arrived on time and well packed. Thank you.,5
+303,14810,C1014,P10,2026-02-19,Great purchase. It works perfectly and looks nice. Totally worth it.,5
+304,14812,C1462,P10,2026-02-23,Bad experience. It failed after the first week. I will not order again.,1
+305,14818,C1298,P27,2026-02-22,The package came with a manual. The price is average. Time will tell. #onlineshop,3
+306,14822,C0495,P09,2026-02-22,Great purchase. Good quality and fast delivery. I will definitely order again.,4
+307,14881,C0841,P12,2026-02-26,"Perfect, exactly what I wanted. The customer service was friendly and helpful. My family is happy too.",4
+308,14901,C0393,P06,2026-02-27,I have used it for one week. The courier called in advance. Normal order.,3
+309,14902,C0083,P06,2026-02-23,I am very satisfied. It arrived on time and well packed. I already recommended the store to a friend. More photos at https://example.com/reviews,5
+310,14944,C1640,P20,2026-02-26,I regret buying it. The buttons stopped working. I do not recommend it.,2
+311,14947,C1519,P12,2026-02-24,Excellent quality. The courier was kind and the delivery was fast. Will buy again.,5
+312,14950,C1576,P24,2026-02-24,Very happy with my order. The customer service was friendly and helpful. Worth every penny.,5
+313,14965,C1941,P01,2026-02-23,"Perfect, exactly what I wanted. It arrived on time and well packed. I already recommended the store to a friend.",4
+314,15002,C1869,P20,2026-02-23,I am very satisfied. It arrived on time and well packed. Highly recommended.,4
+315,15003,C0054,P14,2026-02-23,Delivery took three days. The size is as described. Maybe I will update the review later.,3
+316,15007,C0735,P22,2026-02-26,Awful. The product arrived damaged. Never again.,1
+317,15054,C1636,P19,2026-02-24,EXCELLENT QUALITY. GOOD QUALITY AND FAST DELIVERY. HIGHLY RECOMMENDED.,5
+318,15086,C0380,P24,2026-03-02,VERY HAPPY WITH MY ORDER. THE COURIER WAS KIND AND THE DELIVERY WAS FAST. TOTALLY WORTH IT.,4
+319,15093,C0336,P26,2026-02-27,I love this product. Better than I expected. Highly recommended. More photos at https://example.com/reviews,4
+320,15097,C1227,P26,2026-02-27,Terrible product. It is too noisy and feels cheap. Bad service.,2
+321,15118,C0129,P23,2026-02-28,Amazing value for the price. Fast delivery and great price. Good job. More photos at https://example.com/reviews,5
+322,15126,C0255,P27,2026-02-28,Delivery took three days. The manual is only in English. That is all for now.,3
+323,15131,C0713,P06,2026-03-03,Very happy with my order. It works perfectly and looks nice. Worth every penny.,5
+324,15168,C0181,P24,2026-03-01,GREAT PURCHASE. GOOD QUALITY AND FAST DELIVERY. MY FAMILY IS HAPPY TOO.,4
+325,15190,C1207,P04,2026-03-02,Awesome store. Great price and excellent quality. Totally worth it.,4
+326,15193,C0214,P11,2026-03-05,I have used it for one week. The colour is a bit different. Nothing more to add.,3
+327,15204,C0817,P13,2026-02-28,@techstore Awesome store. Easy to use and very quiet. Totally worth it.,5
+328,15227,C0639,P06,2026-03-04,I am very satisfied. It works perfectly and looks nice. Thank you. #onlineshop,4
+329,15246,C1901,P06,2026-03-01,Awful. The customer service ignored my problem. I am angry.,2
+330,15259,C0125,P25,2026-03-06,Awesome store. It arrived on time and well packed. Will buy again. #onlineshop,5
+331,15265,C1281,P11,2026-03-03,Great purchase. Easy to use and very quiet. I will definitely order again. More photos at https://example.com/reviews,5
+332,15300,C0250,P05,2026-03-03,I am very satisfied. Better than I expected. Five stars from me.,5
+333,15325,C1283,P05,2026-03-08,It is an average product. The courier called in advance. Maybe I will update the review later. More photos at https://example.com/reviews,3
+334,15329,C1996,P24,2026-03-07,Excellent quality. Fast delivery and great price. Thank you.,5
+335,15340,C1867,P17,2026-03-04,Excellent quality. Better than I expected. Totally worth it.,5
+336,15341,C1528,P13,2026-03-03,Great purchase. Super easy to set up. Totally worth it. More photos at https://example.com/reviews,5
+337,15356,C1338,P27,2026-03-05,Standard product. The colour is a bit different. Normal order.,3
+338,15359,C1158,P04,2026-03-08,Very happy with my order. The courier was kind and the delivery was fast. Highly recommended.,5
+339,15372,C1060,P25,2026-03-07,Great purchase. Fast delivery and great price. My family is happy too.,5
+340,15374,C1059,P14,2026-03-03,Horrible purchase. It failed after the first week. Avoid it.,2
+341,15379,C1265,P21,2026-03-07,Excellent quality. Better than I expected. Will buy again. #onlineshop,5
+342,15383,C0767,P25,2026-03-08,The box was a bit big. It is the second one I buy. Time will tell.,3
+343,15396,C0878,P03,2026-03-05,Amazing value for the price. Great price and excellent quality. Good job.,5
+344,15418,C1070,P27,2026-03-09,Amazing value for the price. The courier was kind and the delivery was fast. My family is happy too.,4
+345,15431,C0124,P20,2026-03-10,The product arrived on Monday. The courier called in advance. It is what it is. More photos at https://example.com/reviews,3
+346,15445,C1199,P06,2026-03-06,It does what the description says. The manual is only in English. I have no opinion yet.,3
+347,15446,C1722,P24,2026-03-09,Really good product. Better than I expected. Totally worth it.,5
+348,15446,C1722,P05,2026-03-08,Excellent quality. Super easy to set up. I already recommended the store to a friend.,5
+349,15447,C0422,P20,2026-03-06,I love this product. It works perfectly and looks nice. Good job.,4
+350,15485,C0713,P23,2026-03-12,Bad experience. It failed after the first week. Never again.,1
+351,15513,C0606,P06,2026-03-10,I love this product. It arrived on time and well packed. Will buy again.,5
+352,15529,C1475,P21,2026-03-12,I am very satisfied. Fast delivery and great price. Good job.,4
+353,15541,C0198,P06,2026-03-12,Amazing value for the price. Fast delivery and great price. Five stars from me.,5
+354,15548,C1650,P06,2026-03-11,Amazing value for the price. Fast delivery and great price. Good job. #onlineshop,4
+355,15582,C0366,P12,2026-03-10,I have used it for one week. It has two modes. I have no opinion yet. #onlineshop,3
+356,15606,C0828,P05,2026-03-13,The product arrived on Monday. Used it only twice so far. Maybe I will update the review later.,3
+357,15649,C0991,P26,2026-03-13,Excellent quality. The customer service was friendly and helpful. Highly recommended.,5
+358,15660,C1784,P05,2026-03-12,Very happy with my order. It works perfectly and looks nice. Good job.,5
+359,15688,C1400,P14,2026-03-15,Best purchase this year. The customer service was friendly and helpful. Good job.,5
+360,15714,C1159,P24,2026-03-12,Great purchase. Good quality and fast delivery. I already recommended the store to a friend.,5
+361,15725,C0277,P25,2026-03-17,The package came with a manual. I expected a longer cable. No other comments. More photos at https://example.com/reviews,3
+362,15759,C1005,P20,2026-03-16,Best purchase this year. Easy to use and very quiet. Good job. More photos at https://example.com/reviews,4
+363,15806,C0983,P27,2026-03-14,Very happy with my order. Super easy to set up. Good job.,4
+364,15829,C0384,P11,2026-03-20,Great purchase. It arrived on time and well packed. Highly recommended.,5
+365,15842,C0622,P23,2026-03-18,VERY HAPPY WITH MY ORDER. THE CUSTOMER SERVICE WAS FRIENDLY AND HELPFUL. FIVE STARS FROM ME.,4
+366,15848,C1463,P11,2026-03-17,Very happy with my order. Good quality and fast delivery. Totally worth it. More photos at https://example.com/reviews,5
+367,15854,C1736,P08,2026-03-16,Amazing value for the price. Great price and excellent quality. Will buy again.,5
+368,15859,C0342,P10,2026-03-15,Really good product. The courier was kind and the delivery was fast. I will definitely order again. More photos at https://example.com/reviews,5
+369,15863,C0603,P27,2026-03-19,I am very satisfied. The customer service was friendly and helpful. Worth every penny.,4
+370,15874,C1711,P20,2026-03-16,Amazing value for the price. The courier was kind and the delivery was fast. Highly recommended.,5
+371,15879,C1960,P08,2026-03-17,Bad experience. It looks used and scratched. I want my money back. #onlineshop,1
+372,15892,C1591,P10,2026-03-18,I love this product. Fast delivery and great price. Totally worth it.,5
+373,15912,C1014,P21,2026-03-20,Awesome store. The customer service was friendly and helpful. My family is happy too.,5
+374,15962,C1082,P27,2026-03-19,Best purchase this year. The customer service was friendly and helpful. Totally worth it.,5
+375,15971,C1938,P25,2026-03-19,HORRIBLE PURCHASE. IT LOOKS USED AND SCRATCHED. VERY ANNOYING.,1
+376,15974,C1329,P20,2026-03-22,"Perfect, exactly what I wanted. Better than I expected. Totally worth it.",5
+377,15986,C1104,P06,2026-03-17,AWESOME STORE. FAST DELIVERY AND GREAT PRICE. THANK YOU.,5
+378,16017,C1304,P16,2026-03-19,The order was delivered to the office. It is heavier than the old one. Maybe I will update the review later.,3
+379,16067,C0235,P24,2026-03-23,Very happy with my order. The customer service was friendly and helpful. Highly recommended.,4
+380,16088,C1237,P21,2026-03-20,The box was a bit big. Used it only twice so far. We will see how long it lasts.,3
+381,16126,C1046,P23,2026-03-26,"Perfect, exactly what I wanted. The courier was kind and the delivery was fast. My family is happy too.",5
+382,16141,C0527,P27,2026-03-22,DELIVERY TOOK THREE DAYS. USED IT ONLY TWICE SO FAR. IT IS WHAT IT IS.,3
+383,16151,C1014,P14,2026-03-24,"Perfect, exactly what I wanted. It works perfectly and looks nice. Good job.",5
+384,16156,C0526,P19,2026-03-25,Very happy with my order. Fast delivery and great price. Highly recommended.,4
+385,16159,C1274,P15,2026-03-25,Awesome store. Super easy to set up. I already recommended the store to a friend.,5
+386,16210,C1901,P14,2026-03-26,Poor quality. The product arrived damaged. One star. More photos at https://example.com/reviews,2
+387,16220,C1904,P05,2026-03-24,I am very satisfied. Good quality and fast delivery. Highly recommended.,5
+388,16252,C1781,P20,2026-03-25,Great purchase. Super easy to set up. Totally worth it.,5
+389,16265,C0342,P15,2026-03-24,BEST PURCHASE THIS YEAR. GREAT PRICE AND EXCELLENT QUALITY. I WILL DEFINITELY ORDER AGAIN.,5
+390,16274,C1692,P27,2026-03-24,"Perfect, exactly what I wanted. Great price and excellent quality. I will definitely order again. #onlineshop",5
+391,16282,C1503,P22,2026-03-27,Very happy with my order. It works perfectly and looks nice. Good job.,5
+392,16299,C0982,P12,2026-03-24,The box was a bit big. I expected a longer cable. That is all for now.,3
+393,16310,C1037,P17,2026-03-26,Really good product. Easy to use and very quiet. Highly recommended.,4
+394,16312,C0322,P24,2026-03-26,@techstore Really good product. Better than I expected. Five stars from me.,5
+395,16316,C1674,P27,2026-03-25,"Perfect, exactly what I wanted. Fast delivery and great price. Good job.",5
+396,16329,C1311,P17,2026-03-26,"Perfect, exactly what I wanted. Fast delivery and great price. Thank you.",4
+397,16339,C0226,P07,2026-03-30,@techstore Awesome store. Great price and excellent quality. Worth every penny.,5
+398,16347,C1003,P08,2026-03-31,The order was delivered to the office. The size is as described. No other comments.,3
+399,16352,C0017,P09,2026-03-28,Standard product. The price is average. Normal order.,3
+400,16374,C1895,P20,2026-03-30,It is an average product. I expected a longer cable. We will see how long it lasts.,3
+401,16384,C0568,P24,2026-03-30,The order was delivered to the office. The colour is a bit different. Normal order.,3
+402,16410,C1528,P24,2026-04-01,@techstore Very happy with my order. Better than I expected. Worth every penny.,5
+403,16416,C0252,P05,2026-04-01,Horrible purchase. It looks used and scratched. I want my money back.,2
+404,16428,C0247,P12,2026-03-28,Great purchase. It arrived on time and well packed. My family is happy too.,4
+405,16455,C1977,P11,2026-03-29,I am very satisfied. Good quality and fast delivery. Totally worth it. #onlineshop,5
+406,16462,C1419,P09,2026-04-03,I am very satisfied. Fast delivery and great price. Will buy again.,5
+407,16486,C1054,P11,2026-04-03,Amazing value for the price. It arrived on time and well packed. Good job.,4
+408,16493,C1567,P26,2026-04-02,I am very satisfied. The courier was kind and the delivery was fast. Worth every penny.,5
+409,16503,C0651,P26,2026-03-30,GREAT PURCHASE. GOOD QUALITY AND FAST DELIVERY. FIVE STARS FROM ME.,4
+410,16512,C1056,P07,2026-04-03,Great purchase. Great price and excellent quality. My family is happy too.,5
+411,16518,C1640,P01,2026-04-01,Amazing value for the price. Great price and excellent quality. Will buy again.,5
+412,16565,C0083,P10,2026-03-31,@techstore I love this product. Fast delivery and great price. Five stars from me.,5
+413,16566,C0100,P17,2026-04-05,"Perfect, exactly what I wanted. Great price and excellent quality. My family is happy too.",5
+414,16590,C1213,P13,2026-04-04,It is an average product. It has two modes. Normal order.,3
+415,16598,C0364,P13,2026-04-03,I am very satisfied. It arrived on time and well packed. Five stars from me.,4
+416,16653,C0787,P25,2026-04-02,I love this product. Better than I expected. Good job. More photos at https://example.com/reviews,5
+417,16722,C1264,P05,2026-04-05,Poor quality. It is too noisy and feels cheap. I will not order again.,2
+418,16724,C1078,P18,2026-04-07,"Perfect, exactly what I wanted. It works perfectly and looks nice. Five stars from me.",5
+419,16741,C1388,P10,2026-04-07,Standard product. The size is as described. Maybe I will update the review later.,3
+420,16777,C1722,P23,2026-04-05,The package came with a manual. The manual is only in English. Normal order.,3
+421,16801,C0355,P26,2026-04-08,I am very satisfied. The customer service was friendly and helpful. Totally worth it.,4
+422,16809,C1039,P27,2026-04-07,"Not what I expected, sadly. The product arrived damaged. I do not recommend it.",1
+423,16811,C1418,P07,2026-04-08,It is an average product. I expected a longer cable. It is what it is.,3
+424,16832,C1478,P01,2026-04-08,Standard product. It is heavier than the old one. It is what it is.,3
+425,16835,C1335,P08,2026-04-10,Great purchase. Fast delivery and great price. Will buy again.,4
+426,16843,C0928,P04,2026-04-06,I regret buying it. I had to pay for the return myself. I will not order again.,1
+427,16893,C1747,P24,2026-04-12,Delivery took three days. It is heavier than the old one. Time will tell.,3
+428,16899,C1055,P23,2026-04-08,Delivery took three days. The manual is only in English. Normal order.,3
+429,16909,C1400,P12,2026-04-12,Standard product. I expected a longer cable. No other comments.,3
+430,16911,C0759,P20,2026-04-07,Terrible product. The customer service ignored my problem. I want my money back.,2
+431,16933,C0827,P20,2026-04-08,Delivery took three days. The size is as described. Time will tell. #onlineshop,3
+432,16962,C0405,P05,2026-04-08,Really good product. Fast delivery and great price. Will buy again.,4
+433,16963,C1722,P11,2026-04-11,I regret buying it. The customer service ignored my problem. Never again.,1
+434,16967,C0568,P10,2026-04-09,Amazing value for the price. Good quality and fast delivery. I already recommended the store to a friend.,5
+435,16992,C1733,P24,2026-04-10,Excellent quality. Good quality and fast delivery. Highly recommended. More photos at https://example.com/reviews,4
+436,16995,C0146,P26,2026-04-13,I am very satisfied. The customer service was friendly and helpful. Highly recommended.,5
+437,16996,C0608,P06,2026-04-14,IT DOES WHAT THE DESCRIPTION SAYS. THE COURIER CALLED IN ADVANCE. I HAVE NO OPINION YET.,3
+438,17026,C1528,P26,2026-04-12,Great purchase. Great price and excellent quality. Totally worth it. #onlineshop,4
+439,17063,C0284,P09,2026-04-11,Excellent quality. It arrived on time and well packed. I already recommended the store to a friend.,5
+440,17103,C0353,P26,2026-04-14,GREAT PURCHASE. THE CUSTOMER SERVICE WAS FRIENDLY AND HELPFUL. WORTH EVERY PENNY.,4
+441,17132,C1394,P22,2026-04-12,Best purchase this year. Fast delivery and great price. My family is happy too.,5
+442,17164,C0466,P21,2026-04-15,Standard product. It is the second one I buy. Nothing unusual.,3
+443,17172,C0160,P11,2026-04-18,Really good product. It arrived on time and well packed. Will buy again.,5
+444,17190,C1358,P14,2026-04-14,Awesome store. Good quality and fast delivery. Good job.,5
+445,17198,C0995,P21,2026-04-15,Bad experience. The buttons stopped working. I want my money back.,1
+446,17202,C0886,P09,2026-04-18,Amazing value for the price. The customer service was friendly and helpful. I already recommended the store to a friend.,5
+447,17209,C1442,P16,2026-04-17,The order was delivered to the office. Used it only twice so far. No other comments.,3
+448,17210,C0739,P18,2026-04-14,"Perfect, exactly what I wanted. It works perfectly and looks nice. Good job.",5
+449,17214,C0358,P05,2026-04-14,The box was a bit big. The price is average. Maybe I will update the review later.,3
+450,17244,C0639,P20,2026-04-17,Great purchase. Better than I expected. My family is happy too.,4
+451,17262,C1754,P18,2026-04-17,Awesome store. The customer service was friendly and helpful. Five stars from me.,5
+452,17281,C0909,P09,2026-04-17,AMAZING VALUE FOR THE PRICE. THE COURIER WAS KIND AND THE DELIVERY WAS FAST. HIGHLY RECOMMENDED.,4
+453,17285,C0656,P20,2026-04-15,I ordered it for my parents. The size is as described. That is all for now. More photos at https://example.com/reviews,3
+454,17286,C0926,P01,2026-04-16,I ordered it for my parents. The manual is only in English. Maybe I will update the review later. #onlineshop,3
+455,17291,C0035,P24,2026-04-15,Amazing value for the price. Good quality and fast delivery. Good job.,5
+456,17303,C1691,P06,2026-04-20,The product arrived on Monday. The price is average. We will see how long it lasts. More photos at https://example.com/reviews,3
+457,17307,C0306,P18,2026-04-17,I have used it for one week. It is heavier than the old one. No other comments.,3
+458,17339,C1105,P10,2026-04-16,The box was a bit big. The manual is only in English. I have no opinion yet.,3
+459,17346,C0655,P11,2026-04-19,@techstore Really good product. It arrived on time and well packed. Will buy again.,5
+460,17359,C0368,P06,2026-04-17,Amazing value for the price. Great price and excellent quality. Good job.,5
+461,17364,C1530,P08,2026-04-22,Horrible purchase. It looks used and scratched. I will not order again. More photos at https://example.com/reviews,2
+462,17375,C1069,P06,2026-04-18,Excellent quality. Fast delivery and great price. I already recommended the store to a friend. #onlineshop,5
+463,17392,C1373,P27,2026-04-18,@techstore Really good product. Great price and excellent quality. Thank you.,5
+464,17406,C1949,P20,2026-04-22,@techstore Standard product. I expected a longer cable. I have no opinion yet.,3
+465,17414,C1102,P10,2026-04-21,REALLY GOOD PRODUCT. GREAT PRICE AND EXCELLENT QUALITY. THANK YOU.,5
+466,17424,C0835,P04,2026-04-19,I ordered it for my parents. The size is as described. Time will tell.,3
+467,17467,C0816,P27,2026-04-19,"@techstore Perfect, exactly what I wanted. The customer service was friendly and helpful. I already recommended the store to a friend.",4
+468,17482,C0405,P22,2026-04-21,It is an average product. It is the second one I buy. Nothing unusual.,3
+469,17523,C0113,P05,2026-04-22,I love this product. The customer service was friendly and helpful. My family is happy too.,4
+470,17534,C1926,P03,2026-04-24,Poor quality. The customer service ignored my problem. Never again.,2
+471,17535,C1612,P13,2026-04-20,@techstore I am very satisfied. It arrived on time and well packed. Thank you.,5
+472,17543,C1587,P13,2026-04-24,Really good product. Fast delivery and great price. Will buy again. More photos at https://example.com/reviews,4
+473,17552,C0376,P07,2026-04-22,I am very satisfied. It works perfectly and looks nice. Will buy again.,5
+474,17578,C1226,P06,2026-04-26,Great purchase. The customer service was friendly and helpful. Good job.,4
+475,17603,C1139,P14,2026-04-26,"PERFECT, EXACTLY WHAT I WANTED. IT ARRIVED ON TIME AND WELL PACKED. THANK YOU.",5
+476,17608,C0540,P20,2026-04-23,@techstore Really good product. Easy to use and very quiet. I already recommended the store to a friend.,5
+477,17633,C1130,P05,2026-04-25,Best purchase this year. The customer service was friendly and helpful. I will definitely order again.,4
+478,17634,C1546,P27,2026-04-22,Great purchase. It arrived on time and well packed. Totally worth it.,5
+479,17663,C0739,P26,2026-04-25,Great purchase. It arrived on time and well packed. Good job.,5
+480,17669,C1807,P21,2026-04-26,@techstore I am very satisfied. Better than I expected. Thank you.,4
+481,17670,C0875,P20,2026-04-24,I am very satisfied. It works perfectly and looks nice. Five stars from me.,5
+482,17674,C0227,P06,2026-04-28,It is an average product. The courier called in advance. Normal order.,3
+483,17678,C1351,P25,2026-04-27,Amazing value for the price. The courier was kind and the delivery was fast. Thank you.,5
+484,17682,C0309,P21,2026-04-27,@techstore Best purchase this year. It arrived on time and well packed. Good job.,5
+485,17683,C1451,P05,2026-04-24,I am very satisfied. The courier was kind and the delivery was fast. Highly recommended.,5
+486,17690,C0933,P23,2026-04-28,Horrible purchase. It is too noisy and feels cheap. I will not order again.,1
+487,17693,C0496,P12,2026-04-24,Amazing value for the price. Good quality and fast delivery. Thank you.,4
+488,17744,C1493,P26,2026-04-26,I love this product. The courier was kind and the delivery was fast. Highly recommended.,4
+489,17746,C0823,P05,2026-04-28,Bad experience. The box was damaged and a part was missing. I am angry.,1
+490,17804,C0590,P06,2026-04-29,"Perfect, exactly what I wanted. It works perfectly and looks nice. Worth every penny.",5
+491,17833,C1977,P23,2026-05-02,"Perfect, exactly what I wanted. Super easy to set up. Will buy again.",5
+492,17837,C1546,P21,2026-04-29,Great purchase. It works perfectly and looks nice. Five stars from me.,5
+493,17841,C1599,P03,2026-04-28,Bad experience. The customer service ignored my problem. I will not order again. #onlineshop,2
+494,17859,C1359,P27,2026-04-30,VERY HAPPY WITH MY ORDER. GOOD QUALITY AND FAST DELIVERY. I ALREADY RECOMMENDED THE STORE TO A FRIEND.,4
+495,17861,C0256,P27,2026-04-27,Really good product. Better than I expected. Will buy again.,4
+496,17904,C1863,P03,2026-04-29,Really good product. The courier was kind and the delivery was fast. Will buy again.,5
+497,17925,C1372,P27,2026-04-29,It does what the description says. The manual is only in English. Normal order.,3
+498,17926,C0127,P10,2026-05-03,@techstore Awesome store. Easy to use and very quiet. Worth every penny.,4
+499,17927,C0037,P10,2026-05-04,I am very satisfied. Better than I expected. Good job.,5
+500,17930,C0351,P21,2026-05-04,@techstore Delivery took three days. The size is as described. That is all for now.,3
+501,17937,C0133,P14,2026-05-02,I love this product. Fast delivery and great price. Good job.,5
+502,17967,C0221,P18,2026-05-04,Awesome store. Fast delivery and great price. I will definitely order again.,5
+503,17971,C1661,P26,2026-04-30,Very happy with my order. Good quality and fast delivery. My family is happy too.,5
+504,17974,C1377,P05,2026-05-04,I ordered it for my parents. It is heavier than the old one. No other comments. More photos at https://example.com/reviews,3
+505,17977,C1377,P24,2026-05-05,Standard product. It is the second one I buy. Maybe I will update the review later.,3
+506,17981,C0619,P02,2026-04-30,Amazing value for the price. Better than I expected. Totally worth it.,5
+507,17983,C1215,P27,2026-05-01,I am very satisfied. The customer service was friendly and helpful. Will buy again.,5
+508,18008,C1406,P05,2026-05-03,Very happy with my order. Easy to use and very quiet. Five stars from me.,5
+509,18011,C1686,P02,2026-05-01,I am very satisfied. Easy to use and very quiet. Worth every penny.,5
+510,18060,C1464,P05,2026-05-07,Best purchase this year. Better than I expected. Highly recommended.,5
+511,18064,C0571,P21,2026-05-04,The order was delivered to the office. It is the second one I buy. We will see how long it lasts.,3
+512,18067,C0467,P13,2026-05-08,Really good product. Great price and excellent quality. I will definitely order again. #onlineshop,5
+513,18072,C0131,P09,2026-05-06,BEST PURCHASE THIS YEAR. SUPER EASY TO SET UP. THANK YOU.,5
+514,18084,C1392,P12,2026-05-03,Terrible product. The product arrived damaged. Never again.,2
+515,18114,C0909,P13,2026-05-05,Awesome store. Great price and excellent quality. Totally worth it.,5
+516,18115,C1722,P10,2026-05-09,I love this product. Easy to use and very quiet. Worth every penny.,4
+517,18116,C0991,P20,2026-05-08,I love this product. Better than I expected. Good job.,5
+518,18118,C0561,P19,2026-05-06,Waste of money. The customer service ignored my problem. Avoid it.,2
+519,18167,C0508,P21,2026-05-05,Terrible product. I had to pay for the return myself. Bad service.,1
+520,18176,C1364,P23,2026-05-10,"@techstore Perfect, exactly what I wanted. The courier was kind and the delivery was fast. I will definitely order again.",5
+521,18186,C0149,P26,2026-05-07,Great purchase. Easy to use and very quiet. I will definitely order again.,5
+522,18191,C0404,P05,2026-05-09,Best purchase this year. Fast delivery and great price. Totally worth it.,5
+523,18197,C0551,P11,2026-05-08,I love this product. Fast delivery and great price. Totally worth it.,5
+524,18210,C0540,P27,2026-05-08,@techstore Excellent quality. Great price and excellent quality. I will definitely order again.,5
+525,18219,C0163,P26,2026-05-10,BEST PURCHASE THIS YEAR. THE COURIER WAS KIND AND THE DELIVERY WAS FAST. WILL BUY AGAIN.,5
+526,18237,C1382,P16,2026-05-06,I am very satisfied. The courier was kind and the delivery was fast. I will definitely order again.,4
+527,18252,C1271,P12,2026-05-06,Really good product. It works perfectly and looks nice. Highly recommended. #onlineshop,5
+528,18271,C0268,P06,2026-05-11,"Perfect, exactly what I wanted. It works perfectly and looks nice. I will definitely order again.",4
+529,18287,C1240,P07,2026-05-07,@techstore The package came with a manual. Used it only twice so far. Time will tell.,3
+530,18290,C1381,P27,2026-05-07,The box was a bit big. I expected a longer cable. Nothing unusual.,3
+531,18307,C1281,P14,2026-05-12,NOT HAPPY WITH THIS ORDER. IT BROKE AFTER A FEW DAYS. VERY ANNOYING.,1
+532,18314,C1520,P11,2026-05-09,Best purchase this year. It arrived on time and well packed. Good job.,5
+533,18318,C0840,P14,2026-05-11,I love this product. Better than I expected. I already recommended the store to a friend.,4
+534,18321,C0268,P24,2026-05-11,The product arrived on Monday. It has two modes. No other comments.,3
+535,18369,C0705,P10,2026-05-12,"@techstore Perfect, exactly what I wanted. Easy to use and very quiet. My family is happy too.",5
+536,18381,C0691,P24,2026-05-14,"Perfect, exactly what I wanted. Better than I expected. I will definitely order again. More photos at https://example.com/reviews",4
+537,18391,C1116,P23,2026-05-13,Standard product. It is the second one I buy. Time will tell.,3
+538,18425,C0248,P11,2026-05-14,Amazing value for the price. Better than I expected. Good job.,4
+539,18437,C0146,P13,2026-05-11,,3
+540,18446,C0639,P26,2026-05-14,Very happy with my order. Good quality and fast delivery. I already recommended the store to a friend.,5
+541,18461,C1826,P21,2026-05-12,Standard product. The price is average. I have no opinion yet.,3
+542,18490,C1132,P16,2026-05-11,Amazing value for the price. Good quality and fast delivery. Five stars from me.,5
+543,18491,C1876,P20,2026-05-14,AMAZING VALUE FOR THE PRICE. EASY TO USE AND VERY QUIET. FIVE STARS FROM ME.,5
+544,18528,C1148,P24,2026-05-11,I am very satisfied. Fast delivery and great price. My family is happy too.,5
+545,18538,C1519,P24,2026-05-13,Best purchase this year. Super easy to set up. Five stars from me. #onlineshop,4
+546,18543,C1881,P11,2026-05-17,Awesome store. Good quality and fast delivery. Worth every penny. #onlineshop,5
+547,18563,C0440,P25,2026-05-17,Awful. The quality is worse than expected. Very annoying.,2
+548,18566,C1906,P23,2026-05-13,The product arrived on Monday. The courier called in advance. It is what it is.,3
+549,18575,C0540,P17,2026-05-12,Awesome store. Super easy to set up. Good job.,5
+550,18600,C0121,P21,2026-05-16,I love this product. It works perfectly and looks nice. My family is happy too.,5
+551,18601,C1881,P11,2026-05-16,Bad experience. It looks used and scratched. I will not order again.,2
+552,18619,C1963,P06,2026-05-18,Amazing value for the price. It arrived on time and well packed. Totally worth it.,5
+553,18649,C1513,P11,2026-05-18,Terrible product. I had to pay for the return myself. I want my money back.,2
+554,18672,C1890,P11,2026-05-17,Bad experience. It looks used and scratched. Total disappointment.,2
+555,18693,C1420,P23,2026-05-20,I am very satisfied. Better than I expected. I will definitely order again.,5
+556,18702,C0573,P15,2026-05-20,Poor quality. The quality is worse than expected. Never again. More photos at https://example.com/reviews,2
+557,18703,C1327,P15,2026-05-17,The product arrived on Monday. Used it only twice so far. It is what it is. #onlineshop,3
+558,18707,C0381,P14,2026-05-17,Best purchase this year. Better than I expected. Worth every penny. #onlineshop,4
+559,18711,C0245,P18,2026-05-17,Really good product. Fast delivery and great price. Highly recommended.,5
+560,18724,C0281,P16,2026-05-18,I am very satisfied. Super easy to set up. I will definitely order again.,5
+561,18740,C0224,P10,2026-05-20,"Perfect, exactly what I wanted. The customer service was friendly and helpful. Will buy again.",5
+562,18753,C0837,P10,2026-05-17,The product arrived on Monday. I expected a longer cable. Nothing unusual.,3
+563,18765,C0094,P12,2026-05-20,I ordered it for my parents. It is heavier than the old one. Nothing unusual.,3
+564,18781,C1298,P25,2026-05-18,Delivery took three days. The courier called in advance. I have no opinion yet.,3
+565,18793,C0236,P16,2026-05-18,Not happy with this order. The product arrived damaged. I will not order again.,1
+566,18799,C1319,P21,2026-05-19,Horrible purchase. I had to pay for the return myself. Total disappointment.,1
+567,18802,C0886,P27,2026-05-19,Not happy with this order. I had to pay for the return myself. Bad service.,1
+568,18816,C1703,P23,2026-05-20,Very happy with my order. Good quality and fast delivery. I will definitely order again.,5
+569,18822,C1182,P21,2026-05-20,"Not what I expected, sadly. It failed after the first week. Avoid it.",2
+570,18823,C0709,P04,2026-05-20,Terrible product. The quality is worse than expected. I want my money back.,1
+571,18824,C0112,P23,2026-05-20,Great purchase. It works perfectly and looks nice. Good job.,5
+572,18850,C1951,P16,2026-05-19,I ordered it for my parents. The size is as described. Time will tell.,3
+573,18869,C0502,P18,2026-05-21,Great purchase. Easy to use and very quiet. I will definitely order again.,4
+574,18881,C1673,P25,2026-05-22,I AM VERY SATISFIED. THE COURIER WAS KIND AND THE DELIVERY WAS FAST. WILL BUY AGAIN.,4
+575,18906,C1724,P12,2026-05-24,The order was delivered to the office. It is heavier than the old one. Nothing more to add. #onlineshop,3
+576,18937,C1825,P07,2026-05-22,"Perfect, exactly what I wanted. The customer service was friendly and helpful. Five stars from me. #onlineshop",5
+577,18954,C1287,P26,2026-05-20,I love this product. Fast delivery and great price. Worth every penny.,5
+578,18961,C1905,P14,2026-05-21,Excellent quality. The courier was kind and the delivery was fast. Will buy again.,4
+579,18996,C0760,P12,2026-05-25,I am very satisfied. It works perfectly and looks nice. I already recommended the store to a friend.,5
+580,19007,C1762,P06,2026-05-24,Great purchase. The courier was kind and the delivery was fast. My family is happy too.,4
+581,19022,C1851,P06,2026-05-22,I am very satisfied. Super easy to set up. Will buy again.,5
+582,19034,C0262,P20,2026-05-27,It is an average product. I expected a longer cable. Normal order.,3
+583,19047,C0657,P20,2026-05-23,Great purchase. The customer service was friendly and helpful. Five stars from me.,5
+584,19049,C0754,P20,2026-05-22,I regret buying it. The customer service ignored my problem. I will not order again.,1
+585,19077,C0592,P22,2026-05-27,EXCELLENT QUALITY. IT ARRIVED ON TIME AND WELL PACKED. WORTH EVERY PENNY.,4
+586,19121,C1009,P06,2026-05-28,Poor quality. The customer service ignored my problem. I do not recommend it.,2
+587,19123,C1749,P14,2026-05-25,Best purchase this year. The customer service was friendly and helpful. Highly recommended. More photos at https://example.com/reviews,4
+588,19125,C1162,P13,2026-05-27,Amazing value for the price. The courier was kind and the delivery was fast. My family is happy too.,5
+589,19128,C0531,P05,2026-05-28,I am very satisfied. Better than I expected. I will definitely order again. #onlineshop,5
+590,19176,C1531,P10,2026-05-30,Best purchase this year. It works perfectly and looks nice. Good job.,5
+591,19176,C1531,P23,2026-05-28,Great purchase. Great price and excellent quality. Good job.,4
+592,19190,C1387,P11,2026-05-27,It is an average product. The courier called in advance. No other comments.,3
+593,19206,C0614,P18,2026-05-28,@techstore Great purchase. Better than I expected. My family is happy too.,5
+594,19230,C0001,P11,2026-05-31,The order was delivered to the office. It has two modes. It is what it is.,3
+595,19234,C0005,P23,2026-05-27,Great purchase. It arrived on time and well packed. Good job.,5
+596,19235,C0646,P26,2026-05-28,Very happy with my order. It works perfectly and looks nice. Worth every penny.,5
+597,19248,C0235,P05,2026-05-29,I AM VERY SATISFIED. GREAT PRICE AND EXCELLENT QUALITY. FIVE STARS FROM ME.,5
+598,19254,C0667,P13,2026-05-27,Very happy with my order. Better than I expected. Highly recommended.,5
+599,19255,C1805,P11,2026-05-29,Really good product. The customer service was friendly and helpful. I will definitely order again.,5
+600,19267,C0253,P20,2026-05-30,"Perfect, exactly what I wanted. Easy to use and very quiet. Five stars from me.",5
+601,19272,C1698,P10,2026-05-30,Very happy with my order. Good quality and fast delivery. My family is happy too.,5
+602,19282,C1060,P25,2026-05-28,Awesome store. The courier was kind and the delivery was fast. Worth every penny.,4
+603,19285,C0299,P08,2026-05-28,,4
+604,19285,C0299,P10,2026-05-29,Amazing value for the price. The customer service was friendly and helpful. I already recommended the store to a friend.,4
+605,19359,C0787,P11,2026-05-31,I love this product. The customer service was friendly and helpful. Will buy again.,4
+606,19379,C0521,P05,2026-06-02,@techstore The package came with a manual. It has two modes. Time will tell.,3
+607,19395,C0206,P26,2026-06-03,Amazing value for the price. It arrived on time and well packed. I will definitely order again.,5
+608,19403,C0760,P24,2026-06-02,Best purchase this year. Better than I expected. My family is happy too.,5
+609,19415,C0807,P13,2026-05-31,THE PACKAGE CAME WITH A MANUAL. THE COURIER CALLED IN ADVANCE. NOTHING UNUSUAL.,3
+610,19420,C1663,P11,2026-06-05,@techstore Amazing value for the price. Fast delivery and great price. Worth every penny.,5
+611,19430,C0576,P06,2026-06-01,Awesome store. It arrived on time and well packed. I already recommended the store to a friend.,4
+612,19431,C0651,P11,2026-06-05,Really good product. The customer service was friendly and helpful. Good job. More photos at https://example.com/reviews,4
+613,19455,C0787,P06,2026-06-01,Awful. The customer service ignored my problem. One star.,2
+614,19477,C1957,P12,2026-06-02,Best purchase this year. Good quality and fast delivery. Totally worth it.,5
+615,19496,C0138,P24,2026-06-01,,5
+616,19502,C1040,P10,2026-06-02,Best purchase this year. It arrived on time and well packed. Thank you.,5
+617,19513,C1194,P04,2026-06-05,Great purchase. Good quality and fast delivery. I already recommended the store to a friend.,4
+618,19515,C0646,P04,2026-06-02,The box was a bit big. It is heavier than the old one. We will see how long it lasts.,3
+619,19523,C0770,P23,2026-06-04,Great purchase. Easy to use and very quiet. Worth every penny.,4
+620,19527,C1016,P24,2026-06-02,I love this product. Super easy to set up. Worth every penny.,4
+621,19531,C1320,P06,2026-06-04,It does what the description says. It has two modes. It is what it is.,3
+622,19543,C1804,P26,2026-06-04,Amazing value for the price. Super easy to set up. Highly recommended.,5
+623,19550,C1179,P20,2026-06-06,Very happy with my order. It arrived on time and well packed. Good job.,5
+624,19555,C0358,P24,2026-06-04,I am very satisfied. Super easy to set up. Thank you.,4
+625,19557,C1350,P17,2026-06-07,I ordered it for my parents. The colour is a bit different. Nothing more to add.,3
+626,19558,C0836,P19,2026-06-07,Amazing value for the price. Better than I expected. I will definitely order again.,5
+627,19560,C2000,P05,2026-06-06,I am very satisfied. Great price and excellent quality. My family is happy too.,5
+628,19572,C1799,P27,2026-06-04,It is an average product. It is the second one I buy. No other comments.,3
+629,19591,C1647,P08,2026-06-07,BEST PURCHASE THIS YEAR. THE COURIER WAS KIND AND THE DELIVERY WAS FAST. FIVE STARS FROM ME.,4
+630,19592,C1985,P27,2026-06-08,"Perfect, exactly what I wanted. It arrived on time and well packed. Thank you.",5
+631,19619,C1647,P02,2026-06-05,The package came with a manual. It is heavier than the old one. That is all for now.,3
+632,19639,C1252,P27,2026-06-05,@techstore Best purchase this year. It works perfectly and looks nice. I already recommended the store to a friend.,5
+633,19649,C1533,P05,2026-06-05,Best purchase this year. Fast delivery and great price. I already recommended the store to a friend.,4
+634,19649,C1533,P20,2026-06-09,VERY DISAPPOINTED. THE ROBOT VACUUM STOPPED WORKING AFTER ONE MONTH. ONE STAR.,1
+635,19653,C0527,P20,2026-06-06,I regret buying it. The robot vacuum stopped charging after two weeks. Very annoying.,2
+636,19658,C1392,P23,2026-06-07,Amazing value for the price. Easy to use and very quiet. I already recommended the store to a friend.,4
+637,19663,C0303,P14,2026-06-06,"Perfect, exactly what I wanted. Great price and excellent quality. I will definitely order again.",5
+638,19669,C0914,P20,2026-06-05,Very disappointed. The robot vacuum stopped charging after two weeks. Total disappointment.,1
+639,19670,C0935,P20,2026-06-09,Not happy with this order. The robot vacuum stopped working and I returned it. I want my money back.,1
+640,19691,C1126,P20,2026-06-09,"@techstore I regret buying it. Defective battery, the robot vacuum is useless now. Total disappointment.",1
+641,19710,C1373,P22,2026-06-07,I have used it for one week. It is heavier than the old one. Nothing more to add.,3
+642,19718,C0101,P13,2026-06-09,Great purchase. Easy to use and very quiet. Thank you. More photos at https://example.com/reviews,5
+643,19726,C1626,P24,2026-06-11,Awesome store. The courier was kind and the delivery was fast. Totally worth it.,5
+644,19744,C1027,P20,2026-06-12,Bad experience. The battery died after ten days. One star.,1
+645,19755,C1861,P20,2026-06-08,Bad experience. The battery died and the robot vacuum does not start. Avoid it.,2
+646,19756,C1976,P20,2026-06-09,Waste of money. The robot vacuum stopped charging after two weeks. One star.,2
+647,19770,C1480,P12,2026-06-07,Excellent quality. Better than I expected. Good job. More photos at https://example.com/reviews,5
+648,19773,C0663,P25,2026-06-12,The box was a bit big. The manual is only in English. Normal order.,3
+649,19778,C0612,P20,2026-06-12,Excellent quality. Easy to use and very quiet. Worth every penny. #onlineshop,5
+650,19788,C1716,P10,2026-06-07,"PERFECT, EXACTLY WHAT I WANTED. SUPER EASY TO SET UP. I ALREADY RECOMMENDED THE STORE TO A FRIEND.",4
+651,19788,C1716,P20,2026-06-07,"Waste of money. Defective battery, the robot vacuum is useless now. I am angry.",1
+652,19811,C0675,P20,2026-06-11,"Horrible purchase. Defective battery, the robot vacuum is useless now. Bad service. #onlineshop",2
+653,19829,C1024,P18,2026-06-12,"Not what I expected, sadly. The product arrived damaged. Total disappointment.",2
+654,19830,C0605,P14,2026-06-08,Excellent quality. The customer service was friendly and helpful. I will definitely order again.,5
+655,19832,C1344,P11,2026-06-08,Delivery took three days. The price is average. Maybe I will update the review later.,3
+656,19839,C0747,P08,2026-06-08,"@techstore Perfect, exactly what I wanted. It works perfectly and looks nice. Good job.",4
+657,19840,C1126,P11,2026-06-08,I am very satisfied. Good quality and fast delivery. Thank you.,5
+658,19851,C1369,P20,2026-06-09,The box was a bit big. Used it only twice so far. Time will tell.,3
+659,19854,C1317,P20,2026-06-08,"Not happy with this order. The battery died again, the second unit is also defective. Bad service.",1
+660,19863,C0389,P20,2026-06-11,Not happy with this order. It is too noisy and feels cheap. Never again.,1
+661,19893,C0079,P15,2026-06-12,STANDARD PRODUCT. THE PRICE IS AVERAGE. NOTHING MORE TO ADD.,3
+662,19905,C1642,P20,2026-06-13,Poor quality. The battery died after ten days. I want my money back.,1
+663,19915,C0667,P21,2026-06-11,The order was delivered to the office. I expected a longer cable. Nothing more to add.,3
+664,19919,C1209,P02,2026-06-09,GREAT PURCHASE. SUPER EASY TO SET UP. WORTH EVERY PENNY.,5
+665,19934,C0878,P02,2026-06-14,Best purchase this year. Easy to use and very quiet. Totally worth it.,5
+666,19936,C1251,P08,2026-06-11,"Perfect, exactly what I wanted. It works perfectly and looks nice. I already recommended the store to a friend.",4
+667,19940,C1365,P06,2026-06-15,I love this product. Better than I expected. Good job.,4
+668,19952,C0972,P20,2026-06-14,Horrible purchase. The robot vacuum stopped working and I returned it. I will not order again.,1
+669,19957,C1666,P19,2026-06-10,Great purchase. Fast delivery and great price. Worth every penny. #onlineshop,4
+670,19982,C0552,P17,2026-06-15,The box was a bit big. The size is as described. Nothing unusual.,3
+671,19983,C1433,P14,2026-06-13,I am very satisfied. Easy to use and very quiet. My family is happy too.,5
+672,19986,C0406,P27,2026-06-12,Excellent quality. Good quality and fast delivery. I already recommended the store to a friend.,5
+673,20030,C0210,P20,2026-06-13,"Bad experience. Defective battery, the robot vacuum is useless now. Bad service. More photos at https://example.com/reviews",1
+674,20031,C0453,P20,2026-06-13,Awful. The robot vacuum stopped charging after two weeks. One star.,1
+675,20036,C0561,P20,2026-06-16,"Perfect, exactly what I wanted. Good quality and fast delivery. I already recommended the store to a friend. More photos at https://example.com/reviews",5
+676,20039,C1080,P20,2026-06-15,I regret buying it. The robot vacuum stopped charging after two weeks. I want my money back.,2
+677,20041,C0188,P16,2026-06-14,Horrible purchase. It is too noisy and feels cheap. Bad service. #onlineshop,2
+678,20044,C1222,P16,2026-06-18,@techstore Great purchase. Super easy to set up. Worth every penny.,4
+679,20060,C0804,P20,2026-06-17,@techstore Best purchase this year. Better than I expected. Five stars from me.,4
+680,20062,C1655,P22,2026-06-15,I love this product. Better than I expected. Worth every penny.,5
+681,20067,C0404,P20,2026-06-16,Poor quality. The robot vacuum stopped working and I returned it. Bad service.,2
+682,20084,C0176,P20,2026-06-13,I regret buying it. The robot vacuum stopped charging after two weeks. I want my money back.,2
+683,20090,C0858,P08,2026-06-15,Very happy with my order. Good quality and fast delivery. Five stars from me.,5
+684,20109,C0756,P25,2026-06-14,Best purchase this year. Great price and excellent quality. I will definitely order again.,5
+685,20110,C1730,P18,2026-06-18,Best purchase this year. The courier was kind and the delivery was fast. Good job.,5
+686,20117,C0124,P20,2026-06-15,Best purchase this year. Good quality and fast delivery. Totally worth it.,5
+687,20131,C1213,P20,2026-06-15,Not happy with this order. The robot vacuum stopped charging after two weeks. Total disappointment.,2
+688,20132,C1080,P20,2026-06-16,Awful. The robot vacuum stopped working and I returned it. I do not recommend it.,1
+689,20168,C0120,P20,2026-06-15,Very disappointed. The robot vacuum stopped working after one month. Total disappointment.,1
+690,20209,C1488,P10,2026-06-15,"Perfect, exactly what I wanted. It arrived on time and well packed. Good job.",5
+691,20223,C0714,P20,2026-06-17,"Not happy with this order. The battery died again, the second unit is also defective. Avoid it.",2
+692,20224,C1603,P20,2026-06-18,Very disappointed. The robot vacuum stopped working after one month. One star. More photos at https://example.com/reviews,1
+693,20229,C0926,P07,2026-06-19,Very happy with my order. It arrived on time and well packed. Good job. More photos at https://example.com/reviews,4
+694,20232,C1209,P20,2026-06-16,Waste of money. It stopped charging and the support was useless. Bad service.,1
+695,20235,C0660,P03,2026-06-18,Best purchase this year. Super easy to set up. I already recommended the store to a friend.,5
+696,20253,C1240,P23,2026-06-18,Standard product. The colour is a bit different. Maybe I will update the review later.,3
+697,20261,C0166,P27,2026-06-17,I am very satisfied. The customer service was friendly and helpful. Worth every penny. More photos at https://example.com/reviews,4
+698,20292,C0228,P27,2026-06-21,"Perfect, exactly what I wanted. Great price and excellent quality. Highly recommended. More photos at https://example.com/reviews",5
+699,20311,C1258,P16,2026-06-19,The product arrived on Monday. It is heavier than the old one. Nothing unusual.,3
+700,20319,C0395,P10,2026-06-19,Best purchase this year. It arrived on time and well packed. Thank you.,4
+701,20330,C0026,P20,2026-06-22,Bad experience. The battery died after ten days. Avoid it.,2
+702,20339,C0887,P06,2026-06-22,I ordered it for my parents. The colour is a bit different. Normal order.,3
+703,20345,C0483,P21,2026-06-22,Best purchase this year. It arrived on time and well packed. Worth every penny.,4
+704,20348,C1512,P20,2026-06-18,Poor quality. The robot vacuum stopped working and I returned it. I do not recommend it.,1
+705,20367,C0618,P26,2026-06-22,I love this product. Better than I expected. I already recommended the store to a friend. #onlineshop,5
+706,20407,C1630,P14,2026-06-21,Great purchase. The customer service was friendly and helpful. My family is happy too.,5
+707,20419,C0973,P20,2026-06-21,Horrible purchase. The robot vacuum stopped working and I returned it. I do not recommend it.,2
+708,20433,C0991,P27,2026-06-20,Awesome store. Fast delivery and great price. Will buy again.,5
+709,20445,C0937,P24,2026-06-24,@techstore Bad experience. The buttons stopped working. Very annoying.,1
+710,20456,C1208,P20,2026-06-24,"Not what I expected, sadly. The robot vacuum stopped charging after two weeks. One star.",2
+711,20457,C1383,P05,2026-06-25,Great purchase. Easy to use and very quiet. Worth every penny.,5
+712,20476,C0618,P24,2026-06-21,I love this product. It arrived on time and well packed. Worth every penny.,4
+713,20491,C1255,P24,2026-06-23,@techstore Amazing value for the price. Great price and excellent quality. Totally worth it.,5
+714,20507,C1046,P06,2026-06-26,The order was delivered to the office. The price is average. It is what it is. #onlineshop,3
+715,20523,C1329,P23,2026-06-24,Best purchase this year. Super easy to set up. Totally worth it.,5
+716,20546,C1408,P03,2026-06-23,The order was delivered to the office. The manual is only in English. We will see how long it lasts.,3
+717,20549,C0504,P20,2026-06-25,Really good product. Fast delivery and great price. I already recommended the store to a friend.,5
+718,20552,C1208,P02,2026-06-25,"Perfect, exactly what I wanted. Great price and excellent quality. Thank you.",4
+719,20556,C1239,P11,2026-06-25,I love this product. It works perfectly and looks nice. I already recommended the store to a friend.,5
+720,20574,C0399,P20,2026-06-25,Poor quality. The robot vacuum stopped working after one month. Bad service.,2
+721,20589,C1244,P15,2026-06-26,I love this product. Super easy to set up. Worth every penny.,5
+722,20600,C0394,P20,2026-06-25,Amazing value for the price. It arrived on time and well packed. Thank you. More photos at https://example.com/reviews,4
+723,20636,C0896,P23,2026-06-26,Great purchase. Good quality and fast delivery. Five stars from me.,5
+724,20658,C1286,P20,2026-06-27,"Not happy with this order. The battery died again, the second unit is also defective. Never again. More photos at https://example.com/reviews",2
+725,20664,C0239,P20,2026-06-23,"Awful. The battery died again, the second unit is also defective. One star.",1
+726,20664,C0239,P23,2026-06-25,Amazing value for the price. Good quality and fast delivery. Will buy again.,4
+727,20676,C0667,P26,2026-06-28,Very happy with my order. Better than I expected. Totally worth it.,4
+728,20680,C0728,P20,2026-06-25,"Not what I expected, sadly. Defective battery, the robot vacuum is useless now. Never again.",1
+729,20689,C1739,P23,2026-06-26,Really good product. Fast delivery and great price. My family is happy too.,5
+730,20690,C1895,P27,2026-06-29,Great purchase. Good quality and fast delivery. Will buy again.,5
+731,20716,C0336,P01,2026-06-25,"Perfect, exactly what I wanted. It arrived on time and well packed. Worth every penny.",4
+732,20719,C1759,P05,2026-06-25,Excellent quality. It works perfectly and looks nice. Worth every penny.,4
+733,20734,C0506,P19,2026-06-25,Waste of money. The buttons stopped working. One star. #onlineshop,2
+734,20740,C0744,P16,2026-06-25,Excellent quality. It arrived on time and well packed. Five stars from me.,5
+735,20743,C0512,P14,2026-06-27,I love this product. The customer service was friendly and helpful. Good job.,5
+736,20755,C0358,P10,2026-06-26,@techstore Really good product. Good quality and fast delivery. I will definitely order again.,5
+737,20767,C0210,P20,2026-06-26,Terrible product. It stopped charging and the support was useless. One star.,2
+738,20792,C1178,P20,2026-06-28,"I regret buying it. Defective battery, the robot vacuum is useless now. Bad service.",1
+739,20798,C1200,P20,2026-07-01,"@techstore Bad experience. The battery died again, the second unit is also defective. Very annoying.",2
+740,20799,C1016,P20,2026-07-01,"Not happy with this order. Defective battery, the robot vacuum is useless now. Avoid it.",1
+741,20816,C1599,P04,2026-07-01,It does what the description says. The price is average. Normal order. #onlineshop,3
+742,20819,C0408,P04,2026-07-01,Excellent quality. The courier was kind and the delivery was fast. Will buy again.,5
+743,20825,C1383,P25,2026-07-02,WASTE OF MONEY. THE BUTTONS STOPPED WORKING. I WANT MY MONEY BACK.,1
+744,20826,C0666,P20,2026-07-02,I regret buying it. The battery died after ten days. Never again.,2
+745,20850,C1013,P20,2026-06-27,Horrible purchase. The robot vacuum stopped working and I returned it. Avoid it.,1
+746,20853,C1971,P20,2026-06-30,Poor quality. It stopped charging and the support was useless. Bad service.,1
+747,20862,C1987,P27,2026-07-03,"PERFECT, EXACTLY WHAT I WANTED. IT ARRIVED ON TIME AND WELL PACKED. I WILL DEFINITELY ORDER AGAIN.",5
+748,20867,C1068,P14,2026-07-02,It is an average product. The colour is a bit different. Normal order.,3
+749,20868,C1088,P20,2026-06-29,Poor quality. The battery died after ten days. I am angry. More photos at https://example.com/reviews,1
+750,20874,C0300,P20,2026-06-30,Not happy with this order. The robot vacuum stopped charging after two weeks. Avoid it.,2
+751,20883,C1740,P05,2026-06-30,Really good product. Great price and excellent quality. I will definitely order again.,5
+752,20885,C1126,P20,2026-07-01,Not happy with this order. The battery died after ten days. Never again.,1
+753,20892,C1427,P06,2026-07-01,I AM VERY SATISFIED. GOOD QUALITY AND FAST DELIVERY. THANK YOU.,4
+754,20913,C0845,P20,2026-06-29,Terrible product. It stopped charging and the support was useless. Total disappointment.,1
+755,20918,C0291,P07,2026-06-29,,4
+756,20919,C0466,P09,2026-06-30,Very happy with my order. It works perfectly and looks nice. I already recommended the store to a friend.,5
+757,20921,C0022,P20,2026-07-01,I regret buying it. The robot vacuum stopped working and I returned it. One star. More photos at https://example.com/reviews,1
+758,20929,C1724,P20,2026-06-29,@techstore Terrible product. The battery died and the robot vacuum does not start. Avoid it.,1
+759,20931,C0359,P20,2026-06-29,Poor quality. The robot vacuum stopped working and I returned it. I am angry.,1
+760,20962,C1033,P20,2026-06-30,Best purchase this year. Good quality and fast delivery. Totally worth it.,4
+761,20963,C0521,P18,2026-07-04,Amazing value for the price. The customer service was friendly and helpful. Will buy again.,5
+762,20973,C0127,P19,2026-07-04,"Not what I expected, sadly. The quality is worse than expected. I am angry.",1
+763,20979,C0500,P26,2026-07-02,Really good product. Fast delivery and great price. Totally worth it.,4
+764,20980,C0493,P13,2026-07-04,The package came with a manual. The price is average. No other comments.,3
+765,20981,C1396,P20,2026-06-30,"Not what I expected, sadly. Defective battery, the robot vacuum is useless now. Bad service.",1
+766,20986,C1482,P27,2026-06-30,"Perfect, exactly what I wanted. Better than I expected. Good job.",5
+767,20990,C0506,P21,2026-07-01,Delivery took three days. Used it only twice so far. That is all for now. More photos at https://example.com/reviews,3
+768,20992,C1867,P20,2026-06-30,"Horrible purchase. Defective battery, the robot vacuum is useless now. I will not order again.",2
+769,20998,C1083,P06,2026-06-30,I have used it for one week. It has two modes. We will see how long it lasts.,3
+770,21014,C0101,P05,2026-07-04,It does what the description says. It is the second one I buy. That is all for now.,3
+771,21026,C0124,P25,2026-07-03,Horrible purchase. It failed after the first week. I do not recommend it.,1
+772,21042,C0397,P27,2026-07-01,Really good product. Better than I expected. Highly recommended.,5
+773,21055,C1903,P15,2026-07-05,"Perfect, exactly what I wanted. The customer service was friendly and helpful. Will buy again.",5
+774,21089,C0241,P14,2026-07-04,I love this product. Super easy to set up. Worth every penny. More photos at https://example.com/reviews,5
+775,21092,C0639,P11,2026-07-02,Awful. The box was damaged and a part was missing. I am angry.,2
+776,21098,C0739,P11,2026-07-04,@techstore Awesome store. Fast delivery and great price. Worth every penny.,5
+777,21120,C1666,P20,2026-07-02,BAD EXPERIENCE. IT STOPPED CHARGING AND THE SUPPORT WAS USELESS. AVOID IT.,1
+778,21124,C1668,P04,2026-07-07,I ordered it for my parents. It is the second one I buy. Nothing unusual.,3
+779,21124,C1668,P20,2026-07-03,"Horrible purchase. Defective battery, the robot vacuum is useless now. I am angry. #onlineshop",2
+780,21131,C1943,P27,2026-07-07,Delivery took three days. Used it only twice so far. Time will tell.,3
+781,21143,C1270,P20,2026-07-05,Bad experience. The robot vacuum stopped charging after two weeks. Never again.,1
+782,21145,C1124,P21,2026-07-07,I am very satisfied. Better than I expected. My family is happy too.,4
+783,21170,C1490,P04,2026-07-06,Best purchase this year. Easy to use and very quiet. Five stars from me.,5
+784,21196,C1810,P19,2026-07-04,The order was delivered to the office. The courier called in advance. No other comments.,3
+785,21201,C1345,P23,2026-07-06,Standard product. The colour is a bit different. Nothing more to add.,3
+786,21208,C0920,P26,2026-07-09,Very happy with my order. It arrived on time and well packed. Will buy again.,5
+787,21216,C0124,P24,2026-07-05,Really good product. The customer service was friendly and helpful. Good job.,4
+788,21234,C1758,P21,2026-07-07,Awesome store. The courier was kind and the delivery was fast. I already recommended the store to a friend.,4
+789,21255,C0270,P20,2026-07-09,"Not what I expected, sadly. The battery died and the robot vacuum does not start. I will not order again.",1
+790,21263,C0636,P20,2026-07-10,Awful. The robot vacuum stopped working and I returned it. Bad service.,2
+791,21268,C1602,P20,2026-07-06,"Not what I expected, sadly. The battery died after ten days. I want my money back.",1
+792,21275,C0553,P20,2026-07-05,Bad experience. The robot vacuum stopped working after one month. Never again. More photos at https://example.com/reviews,2
+793,21279,C1230,P09,2026-07-08,I am very satisfied. Better than I expected. I already recommended the store to a friend.,4
+794,21284,C0929,P19,2026-07-06,,5
+795,21298,C1265,P11,2026-07-10,Standard product. The courier called in advance. I have no opinion yet.,3
+796,21320,C1551,P01,2026-07-07,I love this product. Super easy to set up. Worth every penny.,5
+797,21323,C1548,P20,2026-07-09,Horrible purchase. The battery died after ten days. I do not recommend it.,2
+798,21331,C1222,P23,2026-07-10,"Perfect, exactly what I wanted. It arrived on time and well packed. Good job.",5
+799,21332,C1004,P20,2026-07-07,"HORRIBLE PURCHASE. DEFECTIVE BATTERY, THE ROBOT VACUUM IS USELESS NOW. VERY ANNOYING.",1
+800,21338,C1485,P20,2026-07-11,"@techstore Not what I expected, sadly. The robot vacuum stopped working and I returned it. Total disappointment.",2
+801,21358,C1125,P11,2026-07-07,Best purchase this year. The customer service was friendly and helpful. My family is happy too.,5
+802,21375,C0515,P11,2026-07-08,Very happy with my order. Better than I expected. My family is happy too.,5
+803,21380,C1056,P05,2026-07-11,I love this product. Great price and excellent quality. Highly recommended.,5
+804,21409,C0828,P20,2026-07-09,Very disappointed. The battery died after ten days. I am angry.,1
+805,21454,C0298,P06,2026-07-09,Great purchase. Fast delivery and great price. Will buy again. More photos at https://example.com/reviews,5
+806,21489,C1260,P20,2026-07-09,VERY DISAPPOINTED. THE BATTERY DIED AFTER TEN DAYS. I WANT MY MONEY BACK.,2
+807,21500,C0168,P19,2026-07-11,Waste of money. I had to pay for the return myself. Very annoying.,1
+808,21511,C1443,P20,2026-07-12,"Not what I expected, sadly. The robot vacuum stopped charging after two weeks. Avoid it.",2
+809,21519,C1574,P20,2026-07-13,"Horrible purchase. The battery died again, the second unit is also defective. Never again.",2
+810,21536,C1454,P23,2026-07-10,Amazing value for the price. Great price and excellent quality. Thank you.,4
+811,21546,C1907,P10,2026-07-14,"Perfect, exactly what I wanted. Super easy to set up. I already recommended the store to a friend. More photos at https://example.com/reviews",5
+812,21561,C0185,P22,2026-07-14,Excellent quality. Great price and excellent quality. Totally worth it.,5
+813,21571,C0397,P11,2026-07-12,"@techstore Perfect, exactly what I wanted. The customer service was friendly and helpful. Five stars from me.",4
+814,21578,C1599,P26,2026-07-16,Not happy with this order. It looks used and scratched. Total disappointment.,2
+815,21599,C1300,P01,2026-07-16,"Perfect, exactly what I wanted. Fast delivery and great price. My family is happy too.",4
+816,21608,C0358,P20,2026-07-16,@techstore Waste of money. It stopped charging and the support was useless. I do not recommend it.,1
+817,21647,C1475,P24,2026-07-12,Really good product. Easy to use and very quiet. My family is happy too.,5
+818,21696,C1293,P27,2026-07-16,@techstore The box was a bit big. The price is average. Maybe I will update the review later.,3
+819,21700,C1716,P27,2026-07-13,"Perfect, exactly what I wanted. Great price and excellent quality. Will buy again.",5
+820,21702,C0930,P20,2026-07-16,Terrible product. The battery died after ten days. Total disappointment.,1
+821,21704,C0176,P25,2026-07-15,@techstore Great purchase. Super easy to set up. My family is happy too.,4
+822,21708,C1961,P20,2026-07-18,"Perfect, exactly what I wanted. Good quality and fast delivery. Worth every penny.",5
+823,21715,C1750,P20,2026-07-18,Awful. The battery died after ten days. I will not order again.,2
+824,21720,C1457,P09,2026-07-16,I ordered it for my parents. It is the second one I buy. We will see how long it lasts.,3
+825,21722,C1641,P20,2026-07-18,"Awful. The battery died again, the second unit is also defective. Never again.",1
+826,21727,C0136,P20,2026-07-16,Waste of money. The battery died after ten days. I do not recommend it.,2
+827,21731,C1027,P20,2026-07-14,I REGRET BUYING IT. THE BATTERY DIED AND THE ROBOT VACUUM DOES NOT START. NEVER AGAIN.,1
+828,21745,C1083,P20,2026-07-17,"Not happy with this order. The battery died again, the second unit is also defective. Very annoying.",2
+829,21776,C0979,P20,2026-07-14,I regret buying it. The robot vacuum stopped working and I returned it. I will not order again.,1
+830,21787,C1163,P25,2026-07-18,Excellent quality. Easy to use and very quiet. I will definitely order again.,4
+831,21796,C0126,P24,2026-07-15,Great purchase. Good quality and fast delivery. I already recommended the store to a friend. #onlineshop,5
+832,21813,C1527,P19,2026-07-14,Very happy with my order. It works perfectly and looks nice. My family is happy too.,4
+833,21816,C0930,P19,2026-07-14,"Perfect, exactly what I wanted. Better than I expected. Good job.",5
+834,21820,C1692,P20,2026-07-16,"Not what I expected, sadly. The battery died and the robot vacuum does not start. Total disappointment.",1
+835,21836,C1422,P21,2026-07-15,Excellent quality. Fast delivery and great price. I will definitely order again.,4
+836,21845,C0153,P27,2026-07-19,Very happy with my order. Good quality and fast delivery. I will definitely order again.,5
+837,21847,C1271,P21,2026-07-16,I ordered it for my parents. The price is average. Nothing more to add. More photos at https://example.com/reviews,3
+838,21851,C0131,P06,2026-07-20,Best purchase this year. The courier was kind and the delivery was fast. My family is happy too. #onlineshop,5
+839,21871,C0024,P20,2026-07-18,,1
+840,21872,C1987,P16,2026-07-20,It does what the description says. Used it only twice so far. Maybe I will update the review later.,3
+841,21874,C0896,P27,2026-07-20,The box was a bit big. The size is as described. Time will tell.,3
+842,21897,C0978,P11,2026-07-19,Great purchase. Great price and excellent quality. Good job.,5
+843,21929,C0192,P23,2026-07-17,Really good product. Super easy to set up. Will buy again.,5
+844,21933,C1433,P20,2026-07-18,@techstore Not happy with this order. The battery died after ten days. I want my money back.,2
+845,21935,C1252,P20,2026-07-22,"Not what I expected, sadly. The robot vacuum stopped charging after two weeks. I do not recommend it.",2
+846,21948,C1367,P16,2026-07-20,Very happy with my order. It works perfectly and looks nice. My family is happy too.,5
+847,21949,C1462,P20,2026-07-21,GREAT PURCHASE. THE COURIER WAS KIND AND THE DELIVERY WAS FAST. I ALREADY RECOMMENDED THE STORE TO A FRIEND.,5
+848,21958,C1392,P20,2026-07-21,Awful. The robot vacuum stopped working and I returned it. I am angry. #onlineshop,1
+849,21959,C0968,P05,2026-07-20,Awesome store. Fast delivery and great price. I already recommended the store to a friend. #onlineshop,5
+850,21962,C0586,P11,2026-07-18,Amazing value for the price. It works perfectly and looks nice. I will definitely order again.,4
+851,21962,C0586,P20,2026-07-20,Horrible purchase. The robot vacuum stopped working after one month. I do not recommend it.,2
+852,22010,C1190,P20,2026-07-19,I regret buying it. The robot vacuum stopped working after one month. One star.,2
+853,22029,C1196,P18,2026-07-23,Amazing value for the price. It arrived on time and well packed. Highly recommended. More photos at https://example.com/reviews,5
+854,22039,C0757,P01,2026-07-22,Best purchase this year. Good quality and fast delivery. I will definitely order again.,4
+855,22059,C1695,P04,2026-07-19,Best purchase this year. Super easy to set up. I will definitely order again.,5
+856,22073,C0416,P20,2026-07-19,Best purchase this year. Easy to use and very quiet. Will buy again.,5
+857,22096,C1606,P06,2026-07-20,Best purchase this year. Easy to use and very quiet. Good job.,4
+858,22122,C0565,P17,2026-07-22,The box was a bit big. The colour is a bit different. Normal order. #onlineshop,3
+859,22138,C0123,P21,2026-07-21,I am very satisfied. Great price and excellent quality. I already recommended the store to a friend.,5
+860,22147,C0705,P20,2026-07-25,Very disappointed. The robot vacuum stopped working and I returned it. Total disappointment.,1
+861,22159,C1791,P20,2026-07-22,"Horrible purchase. Defective battery, the robot vacuum is useless now. One star.",1
+862,22162,C1475,P27,2026-07-22,"Perfect, exactly what I wanted. Fast delivery and great price. Will buy again.",4
+863,22193,C0946,P20,2026-07-22,"HORRIBLE PURCHASE. THE BATTERY DIED AGAIN, THE SECOND UNIT IS ALSO DEFECTIVE. AVOID IT.",1
+864,22202,C0987,P05,2026-07-22,Very happy with my order. Good quality and fast delivery. Will buy again.,5
+865,22220,C1988,P02,2026-07-26,Delivery took three days. The size is as described. Normal order.,3
+866,22242,C1750,P05,2026-07-26,Awful. It broke after a few days. One star.,1
+867,22253,C0608,P20,2026-07-25,"Not what I expected, sadly. The robot vacuum stopped charging after two weeks. I will not order again.",1
+868,22260,C1070,P27,2026-07-27,"Perfect, exactly what I wanted. The courier was kind and the delivery was fast. I already recommended the store to a friend. More photos at https://example.com/reviews",5
+869,22267,C1393,P13,2026-07-27,I love this product. It works perfectly and looks nice. Thank you.,4
+870,22270,C0669,P25,2026-07-26,"Perfect, exactly what I wanted. Great price and excellent quality. My family is happy too.",5
+871,22274,C0096,P22,2026-07-27,Very happy with my order. The courier was kind and the delivery was fast. I already recommended the store to a friend.,5
+872,22281,C1077,P10,2026-07-25,Awesome store. Good quality and fast delivery. Totally worth it.,5
+873,22290,C0143,P20,2026-07-25,"Very disappointed. The battery died again, the second unit is also defective. Total disappointment.",1
+874,22296,C1403,P20,2026-07-27,"Not what I expected, sadly. The robot vacuum stopped working after one month. Never again.",1
+875,22303,C1638,P02,2026-07-24,,3
+876,22308,C1383,P09,2026-07-24,I have used it for one week. The courier called in advance. It is what it is.,3
+877,22326,C1461,P20,2026-07-26,Very disappointed. It stopped charging and the support was useless. Never again. More photos at https://example.com/reviews,2
+878,22327,C1073,P26,2026-07-29,The product arrived on Monday. The manual is only in English. We will see how long it lasts.,3
+879,22337,C1054,P04,2026-07-27,Great purchase. Easy to use and very quiet. Five stars from me.,5
+880,22361,C1871,P06,2026-07-29,Great purchase. Super easy to set up. Worth every penny.,5
+881,22367,C0221,P20,2026-07-30,"Not what I expected, sadly. The robot vacuum stopped working and I returned it. Bad service.",1
+882,22368,C0099,P20,2026-07-30,Bad experience. The battery died after ten days. Bad service. More photos at https://example.com/reviews,1
+883,22378,C0845,P20,2026-07-27,Awful. The battery died and the robot vacuum does not start. I do not recommend it.,2
+884,22392,C0111,P11,2026-07-30,I am very satisfied. Super easy to set up. I already recommended the store to a friend.,5
+885,22426,C1459,P20,2026-07-31,Horrible purchase. The battery died after ten days. Total disappointment.,1
+886,22430,C0354,P03,2026-07-31,Amazing value for the price. Super easy to set up. Worth every penny.,4
+887,22456,C0236,P19,2026-07-26,@techstore Great purchase. It works perfectly and looks nice. Will buy again.,4
+888,22472,C1401,P25,2026-07-27,"Perfect, exactly what I wanted. Great price and excellent quality. I will definitely order again.",4
+889,22473,C1521,P26,2026-07-26,Delivery took three days. The courier called in advance. It is what it is. #onlineshop,3
+890,22473,C1521,P25,2026-07-29,Amazing value for the price. It arrived on time and well packed. Worth every penny.,5
+891,22489,C0494,P08,2026-07-31,The product arrived on Monday. I expected a longer cable. Maybe I will update the review later.,3
+892,22497,C0583,P20,2026-07-28,"I regret buying it. The battery died again, the second unit is also defective. Bad service. #onlineshop",2
+893,22501,C0244,P19,2026-07-28,I am very satisfied. The courier was kind and the delivery was fast. Worth every penny.,5
+894,22502,C1118,P20,2026-07-28,Very disappointed. The battery died and the robot vacuum does not start. I want my money back.,1
+895,22506,C0815,P20,2026-07-28,"Horrible purchase. The battery died again, the second unit is also defective. Bad service.",2
+896,22516,C1847,P06,2026-07-31,I am very satisfied. Fast delivery and great price. Worth every penny.,5
+897,22523,C1055,P25,2026-07-27,Excellent quality. Super easy to set up. Thank you.,5
+898,22532,C1645,P26,2026-07-28,Standard product. The price is average. That is all for now.,3
+899,22536,C1640,P10,2026-07-30,I am very satisfied. It arrived on time and well packed. I will definitely order again.,4
+900,22538,C1229,P20,2026-07-30,"Perfect, exactly what I wanted. It works perfectly and looks nice. Good job.",5
+901,22541,C0121,P26,2026-07-27,Standard product. Used it only twice so far. Maybe I will update the review later.,3
+902,22552,C1791,P26,2026-08-02,It is an average product. I expected a longer cable. Normal order.,3
+903,22558,C1895,P20,2026-07-31,Poor quality. The robot vacuum stopped charging after two weeks. One star.,1
+904,22572,C0909,P01,2026-07-30,Bad experience. It looks used and scratched. I do not recommend it.,1
+905,22576,C1736,P11,2026-07-30,Terrible product. It failed after the first week. Total disappointment.,1
+906,22578,C0265,P14,2026-08-02,"Perfect, exactly what I wanted. The courier was kind and the delivery was fast. Worth every penny.",5
+907,22589,C0901,P09,2026-07-29,Great purchase. The customer service was friendly and helpful. Five stars from me.,5
+908,22600,C1993,P05,2026-08-02,Great purchase. Great price and excellent quality. Thank you.,5
+909,22608,C1569,P11,2026-07-31,AMAZING VALUE FOR THE PRICE. THE CUSTOMER SERVICE WAS FRIENDLY AND HELPFUL. THANK YOU.,5
+910,22645,C0265,P04,2026-08-03,Very happy with my order. It arrived on time and well packed. Good job.,5
+911,22653,C1922,P27,2026-07-31,Very happy with my order. Good quality and fast delivery. Good job.,5
+912,22656,C0691,P25,2026-08-01,Best purchase this year. The courier was kind and the delivery was fast. Worth every penny.,4
+913,22658,C0109,P20,2026-07-30,Not happy with this order. The robot vacuum stopped charging after two weeks. One star. #onlineshop,1
+914,22669,C0541,P26,2026-08-04,Really good product. Super easy to set up. Will buy again.,5
+915,22683,C1783,P05,2026-08-01,I am very satisfied. It works perfectly and looks nice. I already recommended the store to a friend.,5
+916,22687,C1367,P20,2026-08-03,"Very disappointed. The battery died again, the second unit is also defective. I do not recommend it.",1
+917,22687,C1367,P23,2026-08-01,EXCELLENT QUALITY. IT ARRIVED ON TIME AND WELL PACKED. FIVE STARS FROM ME.,5
+918,22689,C0639,P22,2026-07-30,Amazing value for the price. It works perfectly and looks nice. Five stars from me.,5
+919,22694,C0793,P16,2026-08-01,I ordered it for my parents. I expected a longer cable. We will see how long it lasts.,3
+920,22696,C1215,P20,2026-08-04,Poor quality. The robot vacuum stopped charging after two weeks. Total disappointment.,1
+921,22720,C1369,P27,2026-08-01,Great purchase. Good quality and fast delivery. Good job.,4
+922,22732,C0561,P11,2026-08-04,I have used it for one week. Used it only twice so far. Nothing more to add.,3
+923,22742,C1413,P05,2026-08-03,I love this product. It arrived on time and well packed. I will definitely order again. #onlineshop,4
+924,22747,C0002,P06,2026-08-05,Great purchase. The customer service was friendly and helpful. My family is happy too.,5
+925,22754,C1214,P15,2026-08-06,Amazing value for the price. Great price and excellent quality. Thank you.,5
+926,22761,C0401,P20,2026-08-04,Bad experience. The robot vacuum stopped charging after two weeks. One star. #onlineshop,1
+927,22766,C0522,P23,2026-08-04,"Not what I expected, sadly. The buttons stopped working. One star.",1
+928,22770,C0573,P04,2026-08-04,It is an average product. It has two modes. Normal order.,3
+929,22779,C0654,P05,2026-08-05,@techstore Really good product. It works perfectly and looks nice. Thank you.,5
+930,22788,C1787,P20,2026-08-03,"Very disappointed. The battery died again, the second unit is also defective. I am angry.",2
+931,22799,C0787,P24,2026-08-07,The package came with a manual. The courier called in advance. Normal order.,3
+932,22808,C0336,P17,2026-08-05,"Perfect, exactly what I wanted. It arrived on time and well packed. I already recommended the store to a friend.",5
+933,22821,C0986,P06,2026-08-03,The product arrived on Monday. It is the second one I buy. No other comments.,3
+934,22828,C1479,P23,2026-08-06,@techstore Very happy with my order. Super easy to set up. Good job.,5
+935,22828,C1479,P03,2026-08-05,Excellent quality. The customer service was friendly and helpful. I already recommended the store to a friend.,5
+936,22833,C0498,P20,2026-08-02,Horrible purchase. The robot vacuum stopped charging after two weeks. Never again.,2
+937,22843,C0268,P23,2026-08-02,AWESOME STORE. THE CUSTOMER SERVICE WAS FRIENDLY AND HELPFUL. HIGHLY RECOMMENDED.,5
+938,22863,C0870,P19,2026-08-08,I am very satisfied. The courier was kind and the delivery was fast. Will buy again.,5
+939,22869,C1805,P13,2026-08-05,I love this product. The customer service was friendly and helpful. Totally worth it.,5
+940,22890,C0567,P04,2026-08-04,Best purchase this year. It works perfectly and looks nice. Totally worth it.,5
+941,22891,C1771,P11,2026-08-06,Excellent quality. The customer service was friendly and helpful. Good job.,4
+942,22911,C0882,P04,2026-08-08,Delivery took three days. The courier called in advance. Nothing unusual.,3
+943,22914,C1060,P04,2026-08-05,It is an average product. The colour is a bit different. I have no opinion yet.,3
+944,22937,C1188,P10,2026-08-07,@techstore Very happy with my order. Better than I expected. Will buy again.,5
+945,22938,C1482,P20,2026-08-07,Terrible product. The battery died and the robot vacuum does not start. Bad service.,1
+946,22942,C0834,P20,2026-08-09,BAD EXPERIENCE. IT STOPPED CHARGING AND THE SUPPORT WAS USELESS. I WANT MY MONEY BACK.,1
+947,22950,C0005,P06,2026-08-08,I am very satisfied. It works perfectly and looks nice. Worth every penny. More photos at https://example.com/reviews,5
+948,22952,C0739,P08,2026-08-06,,4
+949,22973,C0161,P11,2026-08-04,@techstore Awesome store. It arrived on time and well packed. Thank you.,5
+950,23002,C0044,P03,2026-08-09,Very happy with my order. The courier was kind and the delivery was fast. Good job. #onlineshop,5
+951,23004,C1343,P10,2026-08-09,Best purchase this year. Better than I expected. Totally worth it. More photos at https://example.com/reviews,5
+952,23005,C0858,P20,2026-08-08,Very disappointed. The battery died and the robot vacuum does not start. Total disappointment.,1
+953,23009,C1666,P20,2026-08-08,"Poor quality. The battery died again, the second unit is also defective. Very annoying.",1
+954,23011,C1277,P20,2026-08-05,"Awful. Defective battery, the robot vacuum is useless now. Bad service.",2
+955,23046,C1278,P05,2026-08-05,Standard product. It is heavier than the old one. Normal order.,3
+956,23065,C0353,P24,2026-08-07,I love this product. It works perfectly and looks nice. Worth every penny.,4
+957,23079,C0639,P19,2026-08-09,@techstore Not happy with this order. I had to pay for the return myself. I do not recommend it.,1
+958,23103,C1783,P20,2026-08-11,Awful. The robot vacuum stopped working and I returned it. Very annoying.,1
+959,23124,C0316,P20,2026-08-13,"Not what I expected, sadly. The battery died again, the second unit is also defective. One star. #onlineshop",2
+960,23127,C0978,P17,2026-08-13,Very happy with my order. The customer service was friendly and helpful. Thank you.,5
+961,23136,C0727,P06,2026-08-09,@techstore I love this product. Better than I expected. Worth every penny.,4
+962,23141,C0153,P18,2026-08-11,Awesome store. Great price and excellent quality. Good job. #onlineshop,4
+963,23142,C0421,P20,2026-08-12,Poor quality. The robot vacuum stopped working and I returned it. I want my money back. More photos at https://example.com/reviews,1
+964,23155,C0109,P05,2026-08-09,Great purchase. Fast delivery and great price. Good job. More photos at https://example.com/reviews,4
+965,23158,C1738,P20,2026-08-09,Awful. The battery died and the robot vacuum does not start. I do not recommend it. #onlineshop,1
+966,23179,C1699,P02,2026-08-13,@techstore Great purchase. Good quality and fast delivery. Worth every penny.,5
+967,23185,C1930,P03,2026-08-14,Very happy with my order. Super easy to set up. Five stars from me.,5
+968,23215,C1903,P21,2026-08-10,Excellent quality. It works perfectly and looks nice. Five stars from me.,5
+969,23242,C0784,P07,2026-08-13,Poor quality. I had to pay for the return myself. One star.,1
+970,23260,C1061,P20,2026-08-12,I have used it for one week. The colour is a bit different. It is what it is.,3
+971,23273,C0713,P10,2026-08-12,Best purchase this year. It arrived on time and well packed. Five stars from me.,5
+972,23282,C0077,P05,2026-08-11,Awesome store. Good quality and fast delivery. Five stars from me.,5
+973,23289,C1605,P06,2026-08-12,EXCELLENT QUALITY. GOOD QUALITY AND FAST DELIVERY. I ALREADY RECOMMENDED THE STORE TO A FRIEND.,5
+974,23306,C0750,P04,2026-08-12,Awesome store. Good quality and fast delivery. Thank you.,5
+975,23315,C1948,P20,2026-08-10,Best purchase this year. The customer service was friendly and helpful. My family is happy too.,5
+976,23343,C0353,P20,2026-08-14,@techstore Not happy with this order. The robot vacuum stopped charging after two weeks. Bad service.,2
+977,23385,C0157,P21,2026-08-15,Horrible purchase. The product arrived damaged. Very annoying.,2
+978,23391,C1029,P17,2026-08-14,Very disappointed. I had to pay for the return myself. Total disappointment. More photos at https://example.com/reviews,2
+979,23399,C0198,P20,2026-08-14,Best purchase this year. Easy to use and very quiet. Five stars from me.,5
+980,23405,C0131,P27,2026-08-16,Standard product. The price is average. Maybe I will update the review later. #onlineshop,3
+981,23412,C0053,P20,2026-08-16,Horrible purchase. The battery died after ten days. One star.,1
+982,23423,C0052,P25,2026-08-13,Excellent quality. Fast delivery and great price. Thank you.,5
+983,23429,C1074,P20,2026-08-16,Awesome store. The customer service was friendly and helpful. Totally worth it. #onlineshop,5
+984,23430,C1696,P13,2026-08-16,The product arrived on Monday. It is heavier than the old one. Maybe I will update the review later. #onlineshop,3
+985,23435,C0446,P20,2026-08-14,"I regret buying it. Defective battery, the robot vacuum is useless now. Very annoying.",1
+986,23460,C0595,P20,2026-08-16,"I regret buying it. The battery died again, the second unit is also defective. One star.",2
+987,23462,C0308,P05,2026-08-14,Really good product. The courier was kind and the delivery was fast. Thank you.,4
+988,23463,C1318,P19,2026-08-14,Amazing value for the price. Super easy to set up. I already recommended the store to a friend.,4
+989,23478,C0710,P13,2026-08-14,Excellent quality. The courier was kind and the delivery was fast. Thank you.,5
+990,23479,C1189,P09,2026-08-16,Great purchase. Easy to use and very quiet. Good job.,4
+991,23488,C0651,P20,2026-08-13,I AM VERY SATISFIED. GOOD QUALITY AND FAST DELIVERY. MY FAMILY IS HAPPY TOO.,5
+992,23496,C1345,P03,2026-08-17,"Perfect, exactly what I wanted. It works perfectly and looks nice. My family is happy too.",5
+993,23501,C1876,P14,2026-08-18,It does what the description says. The price is average. I have no opinion yet.,3
+994,23504,C0674,P19,2026-08-19,Awful. The quality is worse than expected. I will not order again. #onlineshop,1
+995,23514,C1457,P11,2026-08-18,Awful. The product arrived damaged. Bad service.,1
+996,23520,C1155,P11,2026-08-16,Awesome store. It arrived on time and well packed. Worth every penny.,5
+997,23523,C1890,P27,2026-08-17,"Perfect, exactly what I wanted. It arrived on time and well packed. Five stars from me.",5
+998,23526,C1710,P20,2026-08-17,Very disappointed. The battery died and the robot vacuum does not start. I am angry.,2
+999,23528,C0032,P22,2026-08-17,The product arrived on Monday. The size is as described. That is all for now. #onlineshop,3
+1000,23529,C0354,P27,2026-08-14,"Perfect, exactly what I wanted. Great price and excellent quality. I will definitely order again.",5
+1001,23532,C0203,P11,2026-08-18,Very happy with my order. Easy to use and very quiet. Worth every penny.,4
+1002,23535,C1895,P27,2026-08-19,Awesome store. Good quality and fast delivery. Totally worth it.,5
+1003,23541,C1812,P10,2026-08-18,Awesome store. The customer service was friendly and helpful. Totally worth it. #onlineshop,5
+1004,23544,C0458,P19,2026-08-17,Amazing value for the price. It arrived on time and well packed. Five stars from me.,5
+1005,23550,C0389,P20,2026-08-18,"NOT HAPPY WITH THIS ORDER. THE BATTERY DIED AGAIN, THE SECOND UNIT IS ALSO DEFECTIVE. AVOID IT.",1
+1006,23556,C0658,P25,2026-08-20,@techstore Excellent quality. Fast delivery and great price. Five stars from me.,4
+1007,23558,C1554,P11,2026-08-17,,5
+1008,23571,C1704,P17,2026-08-15,STANDARD PRODUCT. USED IT ONLY TWICE SO FAR. IT IS WHAT IT IS.,3
+1009,23581,C0593,P05,2026-08-20,I am very satisfied. Great price and excellent quality. I will definitely order again. More photos at https://example.com/reviews,5
+1010,23584,C0559,P26,2026-08-18,"Not what I expected, sadly. The quality is worse than expected. I am angry.",1
+1011,23591,C0309,P20,2026-08-17,Poor quality. The robot vacuum stopped working after one month. One star. More photos at https://example.com/reviews,2
+1012,23607,C1214,P20,2026-08-21,Waste of money. The battery died after ten days. Never again.,1
+1013,23614,C1855,P12,2026-08-18,Very happy with my order. Great price and excellent quality. Thank you.,5
+1014,23622,C1824,P05,2026-08-18,Very happy with my order. The courier was kind and the delivery was fast. Highly recommended.,4
+1015,23627,C0585,P11,2026-08-17,Horrible purchase. The quality is worse than expected. I want my money back. #onlineshop,1
+1016,23634,C1482,P20,2026-08-18,Awful. The robot vacuum stopped charging after two weeks. One star.,2
+1017,23639,C0486,P06,2026-08-20,I love this product. Easy to use and very quiet. Highly recommended.,5
+1018,23642,C1814,P25,2026-08-19,@techstore I have used it for one week. The colour is a bit different. We will see how long it lasts.,3
+1019,23648,C1042,P26,2026-08-20,Really good product. Better than I expected. My family is happy too.,4
+1020,23652,C0621,P11,2026-08-17,Great purchase. Better than I expected. Thank you.,4
+1021,23663,C0800,P15,2026-08-22,Best purchase this year. Great price and excellent quality. Good job.,5
+1022,23675,C0439,P10,2026-08-21,"Perfect, exactly what I wanted. It arrived on time and well packed. Good job.",5
+1023,23675,C0439,P04,2026-08-18,It is an average product. The price is average. That is all for now.,3
+1024,23675,C0439,P15,2026-08-17,Bad experience. The quality is worse than expected. One star.,1
+1025,23676,C1866,P16,2026-08-17,Excellent quality. Fast delivery and great price. Thank you. #onlineshop,4
+1026,23678,C0597,P20,2026-08-17,@techstore Bad experience. It stopped charging and the support was useless. Bad service.,2
+1027,23687,C0358,P05,2026-08-19,@techstore I love this product. Better than I expected. Thank you.,4
+1028,23728,C1949,P27,2026-08-21,"Perfect, exactly what I wanted. The courier was kind and the delivery was fast. Totally worth it. More photos at https://example.com/reviews",4
+1029,23759,C0995,P20,2026-08-21,I regret buying it. The battery died and the robot vacuum does not start. I do not recommend it.,2
+1030,23773,C0914,P17,2026-08-18,Best purchase this year. Easy to use and very quiet. Thank you.,5
+1031,23784,C0376,P25,2026-08-23,I love this product. It arrived on time and well packed. Thank you.,5
+1032,23816,C0991,P07,2026-08-20,Terrible product. The buttons stopped working. Total disappointment.,1
+1033,23826,C0324,P24,2026-08-20,Standard product. Used it only twice so far. No other comments.,3
+1034,23837,C0197,P06,2026-08-19,"Perfect, exactly what I wanted. The customer service was friendly and helpful. I will definitely order again. #onlineshop",4
+1035,23842,C1065,P20,2026-08-19,"Waste of money. The battery died again, the second unit is also defective. Bad service.",1
+1036,23854,C0821,P05,2026-08-21,I have used it for one week. I expected a longer cable. We will see how long it lasts.,3
+1037,23865,C1238,P19,2026-08-20,Bad experience. It failed after the first week. Avoid it.,2
+1038,23890,C0254,P25,2026-08-25,I ordered it for my parents. The courier called in advance. Nothing unusual.,3
+1039,23892,C1311,P01,2026-08-25,I love this product. Better than I expected. My family is happy too.,4
+1040,23908,C1771,P14,2026-08-26,I love this product. Better than I expected. Worth every penny.,5
+1041,23926,C1215,P06,2026-08-23,Very happy with my order. The courier was kind and the delivery was fast. I already recommended the store to a friend.,5
+1042,23942,C1482,P05,2026-08-26,Excellent quality. Better than I expected. Five stars from me. #onlineshop,5
+1043,23951,C1173,P16,2026-08-22,Awesome store. It works perfectly and looks nice. Will buy again.,5
+1044,23960,C1708,P20,2026-08-24,Poor quality. It stopped charging and the support was useless. Avoid it.,1
+1045,23964,C0139,P20,2026-08-23,Awful. The robot vacuum stopped working after one month. I want my money back. More photos at https://example.com/reviews,2
+1046,23990,C0495,P05,2026-08-26,Awesome store. Super easy to set up. Totally worth it.,5
+1047,23995,C1411,P14,2026-08-28,I love this product. Better than I expected. Will buy again.,5
+1048,23998,C1898,P25,2026-08-28,@techstore Really good product. Better than I expected. My family is happy too.,5
+1049,24011,C1739,P20,2026-08-27,"Terrible product. The battery died again, the second unit is also defective. Very annoying.",1
+1050,24011,C1739,P05,2026-08-27,Amazing value for the price. Better than I expected. Totally worth it. More photos at https://example.com/reviews,5
+1051,24051,C1122,P20,2026-08-24,,5
+1052,24055,C1367,P24,2026-08-25,It is an average product. The size is as described. We will see how long it lasts. More photos at https://example.com/reviews,3
+1053,24059,C1427,P04,2026-08-26,"Perfect, exactly what I wanted. Great price and excellent quality. Highly recommended.",5
+1054,24083,C1603,P25,2026-08-26,"Perfect, exactly what I wanted. It arrived on time and well packed. Highly recommended.",5
+1055,24087,C1143,P08,2026-08-27,I am very satisfied. Super easy to set up. Good job.,5
+1056,24092,C0435,P05,2026-08-29,@techstore It does what the description says. Used it only twice so far. No other comments.,3
+1057,24125,C1318,P04,2026-08-29,I LOVE THIS PRODUCT. IT WORKS PERFECTLY AND LOOKS NICE. WILL BUY AGAIN.,5
+1058,24127,C0223,P03,2026-08-25,"Perfect, exactly what I wanted. Fast delivery and great price. Will buy again.",4
+1059,24128,C1750,P06,2026-08-30,Great purchase. It works perfectly and looks nice. Worth every penny.,5
+1060,24133,C1396,P20,2026-08-30,Very disappointed. The robot vacuum stopped working after one month. I do not recommend it.,2
+1061,24146,C0586,P06,2026-08-27,Really good product. Great price and excellent quality. I will definitely order again.,5
+1062,24149,C0918,P25,2026-08-29,I love this product. Super easy to set up. My family is happy too.,5
+1063,24159,C0435,P26,2026-08-27,Amazing value for the price. Super easy to set up. Five stars from me.,5
+1064,24182,C0578,P20,2026-08-30,"Poor quality. The battery died again, the second unit is also defective. I will not order again.",1
+1065,24223,C1781,P08,2026-08-29,Really good product. Super easy to set up. Five stars from me. More photos at https://example.com/reviews,5
+1066,24226,C1586,P26,2026-08-27,Amazing value for the price. Super easy to set up. Will buy again.,4
+1067,24231,C1464,P20,2026-08-29,Awful. The robot vacuum stopped working and I returned it. I am angry.,2
+1068,24233,C0100,P06,2026-08-30,@techstore Awful. The box was damaged and a part was missing. I want my money back.,2
+1069,24241,C0169,P20,2026-09-01,Terrible product. The battery died and the robot vacuum does not start. I will not order again.,1
+1070,24248,C0750,P20,2026-08-29,NOT HAPPY WITH THIS ORDER. THE ROBOT VACUUM STOPPED CHARGING AFTER TWO WEEKS. BAD SERVICE.,2
+1071,24261,C1367,P14,2026-08-30,I ordered it for my parents. The manual is only in English. Nothing unusual.,3
+1072,24276,C0928,P20,2026-09-02,Great purchase. It arrived on time and well packed. My family is happy too.,5
+1073,24298,C1265,P11,2026-08-29,Amazing value for the price. Great price and excellent quality. I already recommended the store to a friend.,5
+1074,24299,C1655,P23,2026-08-28,Excellent quality. Better than I expected. Worth every penny.,5
+1075,24327,C1351,P20,2026-08-30,"@techstore Not what I expected, sadly. The robot vacuum stopped working after one month. I am angry.",2
+1076,24341,C0710,P20,2026-09-02,Bad experience. The robot vacuum stopped charging after two weeks. Avoid it.,1
+1077,24352,C1993,P20,2026-08-29,Horrible purchase. The robot vacuum stopped working after one month. Very annoying. #onlineshop,1
+1078,24365,C0954,P11,2026-09-02,Really good product. Fast delivery and great price. I already recommended the store to a friend.,5
+1079,24367,C0678,P06,2026-09-03,Best purchase this year. Fast delivery and great price. Thank you.,5
+1080,24377,C1046,P06,2026-09-01,@techstore It is an average product. The manual is only in English. Normal order.,3
+1081,24466,C0398,P24,2026-08-31,Standard product. The price is average. It is what it is.,3
+1082,24468,C1156,P09,2026-09-05,Best purchase this year. Better than I expected. Five stars from me. More photos at https://example.com/reviews,4
+1083,24521,C0006,P20,2026-09-03,Bad experience. The robot vacuum stopped working and I returned it. Never again.,1
+1084,24531,C1380,P20,2026-09-01,"Not happy with this order. Defective battery, the robot vacuum is useless now. One star.",1
+1085,24538,C1464,P25,2026-09-05,Awesome store. Great price and excellent quality. Highly recommended.,5
+1086,24541,C0835,P20,2026-09-02,Bad experience. The robot vacuum stopped charging after two weeks. I will not order again. #onlineshop,1
+1087,24555,C0050,P27,2026-09-06,It does what the description says. The manual is only in English. Maybe I will update the review later.,3
+1088,24564,C1479,P20,2026-09-02,I regret buying it. The battery died and the robot vacuum does not start. I want my money back. #onlineshop,2
+1089,24578,C1278,P20,2026-09-06,Not happy with this order. The robot vacuum stopped working after one month. Total disappointment. More photos at https://example.com/reviews,1
+1090,24580,C0267,P27,2026-09-04,@techstore I love this product. It arrived on time and well packed. Good job.,4
+1091,24590,C0069,P12,2026-09-06,Awesome store. Fast delivery and great price. Worth every penny.,4
+1092,24591,C0681,P20,2026-09-03,"Bad experience. The battery died again, the second unit is also defective. Total disappointment.",1
+1093,24595,C1809,P01,2026-09-04,Not happy with this order. It failed after the first week. Bad service.,1
+1094,24598,C1737,P23,2026-09-07,I love this product. The courier was kind and the delivery was fast. I will definitely order again.,4
+1095,24600,C1619,P20,2026-09-06,I regret buying it. The robot vacuum stopped working and I returned it. I do not recommend it.,1
+1096,24634,C1493,P11,2026-09-03,Best purchase this year. Better than I expected. Will buy again.,5
+1097,24639,C1862,P20,2026-09-05,"Horrible purchase. Defective battery, the robot vacuum is useless now. Avoid it.",2
+1098,24647,C0044,P23,2026-09-08,"Not what I expected, sadly. The buttons stopped working. I will not order again.",2
+1099,24648,C0590,P24,2026-09-05,I ordered it for my parents. The size is as described. I have no opinion yet.,3
+1100,24656,C0404,P22,2026-09-06,Amazing value for the price. Great price and excellent quality. Highly recommended.,4
+1101,24665,C1150,P23,2026-09-09,I love this product. It works perfectly and looks nice. Will buy again.,5
+1102,24680,C0834,P20,2026-09-08,Poor quality. The robot vacuum stopped working after one month. Never again.,2
+1103,24683,C1460,P20,2026-09-08,"Not what I expected, sadly. It stopped charging and the support was useless. Never again.",2
+1104,24685,C1221,P20,2026-09-06,I regret buying it. The robot vacuum stopped working and I returned it. Avoid it.,1
+1105,24692,C0094,P20,2026-09-06,"Waste of money. The battery died again, the second unit is also defective. One star.",2
+1106,24696,C0367,P05,2026-09-06,Best purchase this year. Good quality and fast delivery. I already recommended the store to a friend.,5
+1107,24703,C0923,P07,2026-09-08,Really good product. Better than I expected. I already recommended the store to a friend.,5
+1108,24708,C0433,P10,2026-09-05,Excellent quality. Great price and excellent quality. Good job.,5
+1109,24710,C1165,P03,2026-09-08,Waste of money. It looks used and scratched. I will not order again.,2
+1110,24718,C0664,P20,2026-09-08,Great purchase. It works perfectly and looks nice. Highly recommended. #onlineshop,5
+1111,24722,C0816,P14,2026-09-06,Bad experience. The product arrived damaged. I will not order again.,1
+1112,24723,C1671,P20,2026-09-10,"Waste of money. Defective battery, the robot vacuum is useless now. One star.",1
+1113,24731,C0405,P04,2026-09-08,Best purchase this year. Great price and excellent quality. Thank you.,5
+1114,24734,C0893,P02,2026-09-07,Poor quality. The buttons stopped working. Very annoying.,1
+1115,24736,C1607,P26,2026-09-07,Horrible purchase. The buttons stopped working. Never again. More photos at https://example.com/reviews,1
+1116,24741,C1541,P04,2026-09-05,Really good product. Easy to use and very quiet. Will buy again.,4
+1117,24744,C1831,P05,2026-09-08,I ordered it for my parents. The size is as described. I have no opinion yet.,3
+1118,24758,C1915,P26,2026-09-07,I am very satisfied. It arrived on time and well packed. I already recommended the store to a friend.,5
+1119,24768,C1736,P06,2026-09-07,Poor quality. The customer service ignored my problem. I want my money back.,2
+1120,24772,C1753,P22,2026-09-10,Really good product. Great price and excellent quality. Thank you.,4
+1121,24779,C1451,P23,2026-09-09,Delivery took three days. The price is average. Nothing more to add. #onlineshop,3
+1122,24787,C0627,P20,2026-09-09,Waste of money. It stopped charging and the support was useless. Avoid it.,1
+1123,24791,C0081,P20,2026-09-09,Horrible purchase. It stopped charging and the support was useless. I do not recommend it.,1
+1124,24797,C0596,P23,2026-09-10,I love this product. Easy to use and very quiet. Highly recommended.,5
+1125,24799,C0612,P27,2026-09-11,Very happy with my order. Better than I expected. Thank you.,5
+1126,24804,C0385,P13,2026-09-11,The product arrived on Monday. The price is average. Normal order.,3
+1127,24821,C1945,P20,2026-09-09,"Not what I expected, sadly. The battery died and the robot vacuum does not start. I am angry.",1
+1128,24826,C1060,P20,2026-09-11,"Not happy with this order. The battery died again, the second unit is also defective. Total disappointment.",1
+1129,24839,C1895,P20,2026-09-12,Waste of money. The battery died and the robot vacuum does not start. Bad service. More photos at https://example.com/reviews,2
+1130,24841,C1540,P26,2026-09-07,Excellent quality. It works perfectly and looks nice. Highly recommended.,5
+1131,24843,C0354,P01,2026-09-10,I am very satisfied. Great price and excellent quality. Will buy again.,5
+1132,24862,C0310,P08,2026-09-07,"PERFECT, EXACTLY WHAT I WANTED. BETTER THAN I EXPECTED. FIVE STARS FROM ME.",5
+1133,24874,C0109,P06,2026-09-12,Amazing value for the price. It arrived on time and well packed. My family is happy too.,5
+1134,24878,C0724,P08,2026-09-08,"Perfect, exactly what I wanted. It arrived on time and well packed. I will definitely order again.",5
+1135,24892,C1176,P10,2026-09-10,@techstore Not happy with this order. The customer service ignored my problem. Avoid it.,2
+1136,24894,C1176,P09,2026-09-13,@techstore Really good product. The customer service was friendly and helpful. My family is happy too.,5
+1137,24899,C1337,P13,2026-09-09,I am very satisfied. Good quality and fast delivery. Worth every penny.,4
+1138,24900,C1059,P20,2026-09-09,Great purchase. It arrived on time and well packed. Thank you.,5
+1139,24908,C1693,P20,2026-09-12,"Not what I expected, sadly. It stopped charging and the support was useless. I do not recommend it.",2
+1140,24918,C1751,P21,2026-09-08,Very happy with my order. The courier was kind and the delivery was fast. Good job.,4
+1141,24922,C0495,P20,2026-09-13,Awful. It stopped charging and the support was useless. Avoid it.,2
+1142,24924,C1669,P11,2026-09-11,Poor quality. It is too noisy and feels cheap. Avoid it.,1
+1143,24931,C0839,P27,2026-09-12,I love this product. The customer service was friendly and helpful. I already recommended the store to a friend.,4
+1144,24941,C1549,P11,2026-09-09,I love this product. Better than I expected. I already recommended the store to a friend.,5
+1145,24943,C1913,P20,2026-09-11,"Not what I expected, sadly. It stopped charging and the support was useless. Total disappointment.",1
+1146,24955,C0596,P27,2026-09-09,REALLY GOOD PRODUCT. GOOD QUALITY AND FAST DELIVERY. HIGHLY RECOMMENDED.,5
+1147,24971,C1534,P20,2026-09-14,Not happy with this order. The battery died and the robot vacuum does not start. I want my money back.,2
+1148,24976,C1930,P20,2026-09-11,Waste of money. The battery died after ten days. I want my money back.,1
+1149,24976,C1930,P13,2026-09-14,Amazing value for the price. Better than I expected. My family is happy too.,5
+1150,24986,C1145,P27,2026-09-11,Awesome store. Super easy to set up. Highly recommended. #onlineshop,5
+1151,24990,C1451,P11,2026-09-10,Waste of money. The product arrived damaged. Total disappointment.,1
+1152,25000,C0221,P20,2026-09-09,"Not happy with this order. The battery died again, the second unit is also defective. I do not recommend it. #onlineshop",1
+1153,25008,C1745,P24,2026-09-13,Awesome store. Great price and excellent quality. I already recommended the store to a friend.,5
+1154,25013,C0022,P20,2026-09-14,"Waste of money. Defective battery, the robot vacuum is useless now. Very annoying.",1
+1155,25027,C1105,P26,2026-09-15,Amazing value for the price. Great price and excellent quality. Totally worth it.,4
+1156,25049,C1256,P21,2026-09-11,Standard product. The colour is a bit different. Normal order.,3
+1157,25059,C0848,P20,2026-09-11,Great purchase. It arrived on time and well packed. I will definitely order again. #onlineshop,5
+1158,25064,C1698,P10,2026-09-12,Really good product. Easy to use and very quiet. Highly recommended.,5
+1159,25073,C0613,P20,2026-09-13,Best purchase this year. It arrived on time and well packed. My family is happy too. More photos at https://example.com/reviews,4
+1160,25075,C0583,P20,2026-09-11,Waste of money. The robot vacuum stopped working and I returned it. I do not recommend it. #onlineshop,2
+1161,25084,C0166,P04,2026-09-13,"Perfect, exactly what I wanted. The customer service was friendly and helpful. Good job.",5
+1162,25086,C0937,P20,2026-09-12,Very disappointed. The battery died and the robot vacuum does not start. I am angry.,2
+1163,25093,C1055,P23,2026-09-17,Very happy with my order. Easy to use and very quiet. I will definitely order again.,5
+1164,25094,C0957,P08,2026-09-13,Awesome store. It works perfectly and looks nice. Good job. #onlineshop,4
+1165,25109,C1402,P07,2026-09-12,@techstore Best purchase this year. It arrived on time and well packed. Highly recommended.,5
+1166,25118,C0708,P15,2026-09-13,Standard product. Used it only twice so far. Time will tell.,3
+1167,25120,C1465,P20,2026-09-16,I regret buying it. The battery died after ten days. Very annoying. #onlineshop,1
+1168,25144,C1331,P18,2026-09-14,Amazing value for the price. Better than I expected. Totally worth it.,4
+1169,25151,C0469,P13,2026-09-16,Excellent quality. The customer service was friendly and helpful. I will definitely order again.,5
+1170,25167,C1227,P23,2026-09-18,Great purchase. It arrived on time and well packed. Thank you.,5
+1171,25167,C1227,P05,2026-09-17,Best purchase this year. Fast delivery and great price. Highly recommended.,5
+1172,25168,C0389,P04,2026-09-13,I love this product. Good quality and fast delivery. Good job.,5
+1173,25177,C0449,P16,2026-09-13,I am very satisfied. It arrived on time and well packed. Highly recommended.,5
+1174,25191,C0109,P20,2026-09-18,"Not what I expected, sadly. It stopped charging and the support was useless. Total disappointment.",1
+1175,25196,C0459,P26,2026-09-19,I ordered it for my parents. The courier called in advance. Nothing unusual. #onlineshop,3
+1176,25231,C1523,P20,2026-09-14,I regret buying it. It stopped charging and the support was useless. One star.,1
+1177,25251,C0017,P05,2026-09-16,I love this product. Easy to use and very quiet. Highly recommended. More photos at https://example.com/reviews,5
+1178,25280,C0713,P08,2026-09-18,Bad experience. I had to pay for the return myself. I will not order again. More photos at https://example.com/reviews,2
+1179,25295,C0776,P20,2026-09-16,I regret buying it. It stopped charging and the support was useless. I do not recommend it.,2
+1180,25296,C1042,P20,2026-09-20,Horrible purchase. The robot vacuum stopped working and I returned it. I do not recommend it.,1
+1181,25300,C0576,P26,2026-09-18,Excellent quality. Easy to use and very quiet. Thank you.,5
+1182,25307,C0724,P20,2026-09-17,Great purchase. Easy to use and very quiet. Totally worth it.,4
+1183,25327,C0514,P27,2026-09-20,"Perfect, exactly what I wanted. Super easy to set up. Five stars from me.",4
+1184,25329,C1080,P14,2026-09-18,Really good product. Good quality and fast delivery. I will definitely order again.,5
+1185,25343,C1413,P25,2026-09-20,I love this product. Easy to use and very quiet. I already recommended the store to a friend.,4
+1186,25354,C0376,P20,2026-09-21,Terrible product. The battery died after ten days. Never again.,1
+1187,25364,C1947,P13,2026-09-19,Excellent quality. Fast delivery and great price. Totally worth it. #onlineshop,5
+1188,25366,C0988,P10,2026-09-19,Bad experience. The quality is worse than expected. Bad service.,2
+1189,25370,C0024,P04,2026-09-20,It does what the description says. It is the second one I buy. Normal order. #onlineshop,3
+1190,25398,C0069,P25,2026-09-23,Amazing value for the price. It works perfectly and looks nice. Highly recommended.,4
+1191,25430,C0477,P20,2026-09-18,I love this product. The customer service was friendly and helpful. I will definitely order again.,5
+1192,25439,C1551,P26,2026-09-20,@techstore Not happy with this order. It looks used and scratched. Total disappointment.,1
+1193,25441,C0812,P17,2026-09-19,Great purchase. It works perfectly and looks nice. Highly recommended.,4
+1194,25447,C1695,P18,2026-09-22,Best purchase this year. Easy to use and very quiet. Will buy again.,5
+1195,25451,C0589,P11,2026-09-24,Great purchase. Easy to use and very quiet. I already recommended the store to a friend.,4
+1196,25464,C1062,P20,2026-09-19,"Not what I expected, sadly. The battery died again, the second unit is also defective. Never again.",2
+1197,25469,C0286,P25,2026-09-19,@techstore Very happy with my order. It works perfectly and looks nice. I already recommended the store to a friend.,5
+1198,25487,C1087,P23,2026-09-20,"@techstore Perfect, exactly what I wanted. Great price and excellent quality. Highly recommended.",5
+1199,25499,C1462,P11,2026-09-20,I am very satisfied. The customer service was friendly and helpful. Thank you.,4
+1200,25528,C0331,P10,2026-09-22,It does what the description says. The manual is only in English. That is all for now.,3
+1201,25548,C0713,P27,2026-09-22,Excellent quality. It works perfectly and looks nice. Worth every penny.,5
+1202,25566,C1279,P14,2026-09-26,The product arrived on Monday. The size is as described. Normal order. More photos at https://example.com/reviews,3
+1203,25577,C1759,P19,2026-09-23,I am very satisfied. The customer service was friendly and helpful. Five stars from me. More photos at https://example.com/reviews,5
+1204,25624,C0908,P05,2026-09-24,Best purchase this year. Good quality and fast delivery. I will definitely order again. More photos at https://example.com/reviews,4
+1205,25662,C0843,P03,2026-09-22,Very happy with my order. The courier was kind and the delivery was fast. Five stars from me.,5
+1206,25665,C0728,P24,2026-09-27,@techstore Best purchase this year. Good quality and fast delivery. Good job.,5
+1207,25666,C0326,P26,2026-09-27,@techstore Really good product. Easy to use and very quiet. Highly recommended.,5
+1208,25671,C1135,P20,2026-09-25,@techstore Awful. The robot vacuum stopped charging after two weeks. Avoid it.,2
+1209,25682,C0366,P06,2026-09-22,Awesome store. Fast delivery and great price. Worth every penny. #onlineshop,5
+1210,25690,C1094,P05,2026-09-27,@techstore Awesome store. It works perfectly and looks nice. Highly recommended.,4
+1211,25695,C1404,P20,2026-09-26,Not happy with this order. It stopped charging and the support was useless. I am angry.,2
+1212,25705,C1927,P20,2026-09-28,Horrible purchase. The battery died and the robot vacuum does not start. One star.,1
+1213,25715,C1412,P11,2026-09-26,I have used it for one week. It is the second one I buy. Maybe I will update the review later. #onlineshop,3
+1214,25731,C1923,P17,2026-09-23,@techstore Great purchase. It works perfectly and looks nice. Will buy again.,5
+1215,25738,C0631,P20,2026-09-27,Very disappointed. The robot vacuum stopped working and I returned it. Very annoying.,1
+1216,25772,C1842,P20,2026-09-24,"@techstore Not what I expected, sadly. The robot vacuum stopped working and I returned it. I want my money back.",1
+1217,25774,C0399,P20,2026-09-24,"Not what I expected, sadly. It stopped charging and the support was useless. Bad service.",2
+1218,25775,C1885,P20,2026-09-25,"Very disappointed. Defective battery, the robot vacuum is useless now. I will not order again. More photos at https://example.com/reviews",1
+1219,25777,C1610,P20,2026-09-25,@techstore Terrible product. The robot vacuum stopped charging after two weeks. I want my money back.,1
+1220,25779,C0337,P16,2026-09-28,Terrible product. The quality is worse than expected. Never again.,1
+1221,25791,C0810,P20,2026-09-24,Poor quality. The battery died after ten days. I will not order again.,1
+1222,25800,C0421,P20,2026-09-30,"Not what I expected, sadly. The robot vacuum stopped working after one month. I am angry.",1
+1223,25812,C0551,P22,2026-09-30,Best purchase this year. Better than I expected. Good job.,4
+1224,25829,C0196,P20,2026-09-30,Terrible product. The robot vacuum stopped charging after two weeks. I want my money back.,2
+1225,25843,C1241,P20,2026-09-29,Waste of money. The buttons stopped working. Total disappointment.,1
+1226,25859,C1559,P10,2026-09-28,AWESOME STORE. FAST DELIVERY AND GREAT PRICE. THANK YOU.,4
+1227,25860,C0073,P24,2026-09-28,Excellent quality. The courier was kind and the delivery was fast. Five stars from me.,5
+1228,25863,C1286,P25,2026-09-29,"@techstore Perfect, exactly what I wanted. Easy to use and very quiet. My family is happy too.",5
+1229,25867,C1189,P06,2026-09-27,Really good product. Better than I expected. Highly recommended.,5
+1230,25870,C0639,P04,2026-09-27,I am very satisfied. It arrived on time and well packed. My family is happy too.,4
+1231,25875,C1258,P20,2026-10-02,"I regret buying it. Defective battery, the robot vacuum is useless now. I will not order again.",2
+1232,25903,C1987,P20,2026-10-01,"Very disappointed. The battery died again, the second unit is also defective. Bad service. #onlineshop",1
+1233,25909,C1127,P26,2026-09-28,Best purchase this year. It arrived on time and well packed. Five stars from me.,5
+1234,25920,C0595,P20,2026-09-27,Delivery took three days. The colour is a bit different. Nothing more to add.,3
+1235,25950,C1571,P20,2026-10-01,Poor quality. The robot vacuum stopped working and I returned it. I am angry.,2
+1236,25966,C0124,P27,2026-09-29,Amazing value for the price. Good quality and fast delivery. Thank you.,5
+1237,25971,C1064,P20,2026-10-03,"Waste of money. Defective battery, the robot vacuum is useless now. I want my money back.",2
+1238,25986,C0281,P08,2026-10-01,The product arrived on Monday. It is heavier than the old one. That is all for now. #onlineshop,3
+1239,25990,C0236,P05,2026-10-03,Best purchase this year. Better than I expected. I will definitely order again.,4
+1240,25991,C0179,P27,2026-09-30,Best purchase this year. Better than I expected. Will buy again. More photos at https://example.com/reviews,4
+1241,25995,C0717,P24,2026-09-28,"Perfect, exactly what I wanted. Fast delivery and great price. Worth every penny.",5
+1242,26005,C1235,P12,2026-09-28,I have used it for one week. It is the second one I buy. That is all for now.,3
+1243,26006,C0552,P20,2026-09-28,I am very satisfied. Fast delivery and great price. Thank you.,4
+1244,26010,C1127,P03,2026-09-28,"@techstore Perfect, exactly what I wanted. Fast delivery and great price. Five stars from me.",5
+1245,26028,C1466,P14,2026-09-30,Really good product. Fast delivery and great price. Good job.,5
+1246,26040,C1688,P25,2026-09-29,Amazing value for the price. Fast delivery and great price. Will buy again.,5
+1247,26049,C1920,P20,2026-10-02,It is an average product. The colour is a bit different. That is all for now.,3
+1248,26067,C1451,P21,2026-09-29,Really good product. Better than I expected. My family is happy too.,4
+1249,26071,C1496,P20,2026-10-01,Waste of money. The battery died after ten days. Avoid it.,2
+1250,26095,C0186,P11,2026-10-04,Best purchase this year. Good quality and fast delivery. Five stars from me. More photos at https://example.com/reviews,5
+1251,26112,C1702,P21,2026-10-01,Great purchase. Great price and excellent quality. Five stars from me.,5
+1252,26115,C0598,P20,2026-10-04,"Not what I expected, sadly. It stopped charging and the support was useless. Never again. More photos at https://example.com/reviews",1
+1253,26117,C1027,P20,2026-10-03,@techstore Waste of money. It stopped charging and the support was useless. Bad service.,2
+1254,26121,C0285,P20,2026-10-01,"Bad experience. The battery died again, the second unit is also defective. Bad service.",1
+1255,26124,C1950,P23,2026-10-04,Excellent quality. Better than I expected. Thank you. More photos at https://example.com/reviews,5
+1256,26133,C0937,P20,2026-10-02,Very disappointed. The robot vacuum stopped working after one month. Bad service.,1
+1257,26135,C0914,P20,2026-10-01,Very disappointed. The battery died and the robot vacuum does not start. Very annoying.,1
+1258,26136,C0663,P05,2026-10-06,Best purchase this year. It arrived on time and well packed. I will definitely order again.,4
+1259,26146,C1265,P20,2026-10-06,Excellent quality. Better than I expected. My family is happy too.,4
+1260,26153,C1693,P06,2026-10-03,Awesome store. Good quality and fast delivery. Thank you. More photos at https://example.com/reviews,4
+1261,26154,C0346,P06,2026-10-05,Awesome store. Fast delivery and great price. I already recommended the store to a friend. More photos at https://example.com/reviews,5
+1262,26165,C1764,P20,2026-10-05,"Waste of money. Defective battery, the robot vacuum is useless now. I want my money back.",2
+1263,26176,C1003,P06,2026-10-02,@techstore Really good product. It works perfectly and looks nice. My family is happy too.,4
+1264,26183,C1158,P25,2026-10-06,Bad experience. It failed after the first week. Bad service.,2
+1265,26198,C1138,P25,2026-10-03,@techstore Great purchase. Easy to use and very quiet. I already recommended the store to a friend.,4
+1266,26207,C1957,P04,2026-10-07,The package came with a manual. The size is as described. Nothing more to add.,3
+1267,26212,C0600,P20,2026-10-03,"BAD EXPERIENCE. THE BATTERY DIED AGAIN, THE SECOND UNIT IS ALSO DEFECTIVE. AVOID IT.",2
+1268,26220,C1287,P20,2026-10-05,Very disappointed. It stopped charging and the support was useless. Bad service.,2
+1269,26238,C1461,P19,2026-10-07,Excellent quality. The courier was kind and the delivery was fast. Will buy again.,5
+1270,26239,C1385,P14,2026-10-06,"@techstore Perfect, exactly what I wanted. The courier was kind and the delivery was fast. Thank you.",5
+1271,26254,C0914,P20,2026-10-07,It does what the description says. The manual is only in English. Time will tell.,3
+1272,26275,C0650,P20,2026-10-06,Terrible product. It stopped charging and the support was useless. Very annoying.,2
+1273,26277,C1928,P20,2026-10-08,Not happy with this order. The robot vacuum stopped charging after two weeks. One star.,1
+1274,26285,C0451,P20,2026-10-09,@techstore Awful. The robot vacuum stopped charging after two weeks. Total disappointment.,1
+1275,26305,C1646,P11,2026-10-06,TERRIBLE PRODUCT. THE PRODUCT ARRIVED DAMAGED. VERY ANNOYING.,1
+1276,26314,C0147,P24,2026-10-09,I have used it for one week. The courier called in advance. That is all for now.,3
+1277,26335,C0358,P07,2026-10-05,Amazing value for the price. The customer service was friendly and helpful. Worth every penny.,5
+1278,26361,C1161,P15,2026-10-10,I love this product. Good quality and fast delivery. Totally worth it.,5
+1279,26367,C1463,P20,2026-10-07,Very disappointed. The robot vacuum stopped charging after two weeks. Avoid it. More photos at https://example.com/reviews,1
+1280,26379,C1716,P10,2026-10-11,I love this product. The customer service was friendly and helpful. Thank you.,5
+1281,26423,C1866,P26,2026-10-07,Really good product. Great price and excellent quality. I already recommended the store to a friend.,5
+1282,26423,C1866,P12,2026-10-07,I love this product. The courier was kind and the delivery was fast. Thank you.,5
+1283,26425,C0358,P20,2026-10-10,@techstore Very disappointed. It stopped charging and the support was useless. Total disappointment.,2
+1284,26436,C1698,P20,2026-10-11,"Not happy with this order. Defective battery, the robot vacuum is useless now. Very annoying.",1
+1285,26456,C1265,P20,2026-10-10,"Poor quality. Defective battery, the robot vacuum is useless now. I do not recommend it.",1
+1286,26469,C0659,P20,2026-10-08,"Not what I expected, sadly. The robot vacuum stopped charging after two weeks. I will not order again.",2
+1287,26471,C0337,P15,2026-10-13,Great purchase. It works perfectly and looks nice. Totally worth it. #onlineshop,4
+1288,26479,C1286,P20,2026-10-10,Horrible purchase. The battery died and the robot vacuum does not start. One star. More photos at https://example.com/reviews,1
+1289,26489,C1720,P11,2026-10-10,Delivery took three days. The courier called in advance. I have no opinion yet.,3
+1290,26497,C1231,P20,2026-10-08,@techstore I have used it for one week. The courier called in advance. That is all for now.,3
+1291,26499,C1588,P11,2026-10-11,I love this product. Better than I expected. Thank you. #onlineshop,5
+1292,26541,C0456,P20,2026-10-13,Waste of money. The robot vacuum stopped working after one month. One star.,1
+1293,26544,C0828,P27,2026-10-12,"Perfect, exactly what I wanted. Super easy to set up. I already recommended the store to a friend.",4
+1294,26550,C1226,P20,2026-10-13,Waste of money. The battery died and the robot vacuum does not start. Total disappointment.,1
+1295,26558,C0380,P20,2026-10-13,Very disappointed. It stopped charging and the support was useless. I will not order again. More photos at https://example.com/reviews,2
+1296,26564,C1978,P23,2026-10-12,Very happy with my order. The customer service was friendly and helpful. My family is happy too.,4
+1297,26568,C0291,P06,2026-10-11,@techstore Very disappointed. It broke after a few days. One star.,1
+1298,26608,C0506,P10,2026-10-13,Best purchase this year. Easy to use and very quiet. Five stars from me.,5
+1299,26610,C1265,P16,2026-10-12,Excellent quality. The courier was kind and the delivery was fast. Will buy again.,4
+1300,26637,C1638,P26,2026-10-15,I love this product. Super easy to set up. Five stars from me.,5
+1301,26639,C0989,P19,2026-10-13,Very happy with my order. Fast delivery and great price. Thank you.,4
+1302,26644,C1918,P26,2026-10-16,Amazing value for the price. The courier was kind and the delivery was fast. Good job.,4
+1303,26651,C0298,P27,2026-10-14,Amazing value for the price. It arrived on time and well packed. Totally worth it.,4
+1304,26681,C0326,P11,2026-10-13,It does what the description says. The colour is a bit different. Nothing more to add.,3
+1305,26687,C0612,P10,2026-10-13,The order was delivered to the office. Used it only twice so far. No other comments.,3
+1306,26691,C0364,P24,2026-10-15,It is an average product. It has two modes. That is all for now.,3
+1307,26693,C0552,P06,2026-10-13,Standard product. It has two modes. It is what it is.,3
+1308,26718,C1291,P20,2026-10-14,Terrible product. The battery died after ten days. I will not order again.,1
+1309,26735,C1436,P20,2026-10-16,Really good product. Great price and excellent quality. My family is happy too. #onlineshop,4
+1310,26744,C1771,P06,2026-10-17,Great purchase. Great price and excellent quality. Will buy again.,4
+1311,26761,C0833,P20,2026-10-13,Poor quality. The battery died and the robot vacuum does not start. I want my money back.,1
+1312,26772,C0521,P21,2026-10-16,Very happy with my order. The customer service was friendly and helpful. I will definitely order again.,5
+1313,26773,C1457,P17,2026-10-16,@techstore Amazing value for the price. Better than I expected. Five stars from me.,5
+1314,26775,C0939,P11,2026-10-15,Best purchase this year. It works perfectly and looks nice. Five stars from me.,5
+1315,26796,C0543,P24,2026-10-16,AMAZING VALUE FOR THE PRICE. BETTER THAN I EXPECTED. GOOD JOB.,4
+1316,26799,C0628,P03,2026-10-15,"Perfect, exactly what I wanted. Super easy to set up. Five stars from me.",4
+1317,26822,C1080,P16,2026-10-15,Awesome store. Super easy to set up. Worth every penny.,5
+1318,26829,C1619,P11,2026-10-13,"Perfect, exactly what I wanted. Great price and excellent quality. Totally worth it.",5
+1319,26838,C0586,P19,2026-10-18,Excellent quality. Super easy to set up. Highly recommended.,4
+1320,26854,C1183,P20,2026-10-15,"Poor quality. The battery died again, the second unit is also defective. One star. More photos at https://example.com/reviews",2
+1321,26869,C0512,P09,2026-10-17,Excellent quality. Super easy to set up. I already recommended the store to a friend.,5
+1322,26881,C0279,P25,2026-10-16,Standard product. The size is as described. We will see how long it lasts.,3
+1323,26885,C0817,P20,2026-10-18,Great purchase. Great price and excellent quality. Good job.,5
+1324,26885,C0817,P25,2026-10-14,,4
+1325,26891,C1405,P21,2026-10-17,I love this product. The courier was kind and the delivery was fast. Worth every penny.,5
+1326,26892,C1837,P25,2026-10-20,Amazing value for the price. Better than I expected. Thank you.,5
+1327,26905,C0887,P05,2026-10-15,@techstore I love this product. Better than I expected. I already recommended the store to a friend.,5
+1328,26907,C1191,P26,2026-10-16,Poor quality. It broke after a few days. I want my money back.,1
+1329,26917,C1046,P14,2026-10-19,"Perfect, exactly what I wanted. Good quality and fast delivery. Thank you.",5
+1330,26919,C1395,P01,2026-10-15,"Perfect, exactly what I wanted. The customer service was friendly and helpful. Highly recommended.",4
+1331,26937,C1177,P17,2026-10-18,Excellent quality. Better than I expected. Will buy again.,4
+1332,26939,C1156,P20,2026-10-17,Awful. The robot vacuum stopped working and I returned it. Never again.,2
+1333,26945,C0745,P09,2026-10-18,I HAVE USED IT FOR ONE WEEK. I EXPECTED A LONGER CABLE. THAT IS ALL FOR NOW.,3
+1334,26959,C1808,P09,2026-10-18,@techstore The order was delivered to the office. Used it only twice so far. Time will tell.,3
+1335,26977,C1054,P20,2026-10-21,Waste of money. It stopped charging and the support was useless. I want my money back.,2
+1336,26980,C1576,P27,2026-10-16,I love this product. Easy to use and very quiet. Five stars from me.,5
+1337,27008,C0787,P11,2026-10-17,Very happy with my order. Easy to use and very quiet. Will buy again.,5
+1338,27027,C0407,P20,2026-10-18,"Terrible product. The battery died again, the second unit is also defective. Bad service.",2
+1339,27043,C1716,P20,2026-10-19,"Bad experience. Defective battery, the robot vacuum is useless now. I will not order again.",1
+1340,27047,C1370,P24,2026-10-23,Great purchase. The customer service was friendly and helpful. Highly recommended.,5
+1341,27053,C1977,P16,2026-10-23,Very happy with my order. Great price and excellent quality. Highly recommended.,5
+1342,27069,C0880,P27,2026-10-22,Excellent quality. Fast delivery and great price. Thank you.,5
+1343,27079,C0989,P20,2026-10-21,Awful. It stopped charging and the support was useless. Very annoying.,1
+1344,27097,C1888,P20,2026-10-24,"Not what I expected, sadly. The robot vacuum stopped working and I returned it. I am angry.",2
+1345,27098,C1420,P20,2026-10-24,Bad experience. The robot vacuum stopped working after one month. Very annoying.,2
+1346,27101,C0936,P27,2026-10-20,I love this product. The customer service was friendly and helpful. Will buy again.,4
+1347,27102,C0178,P06,2026-10-22,The package came with a manual. The price is average. That is all for now.,3
+1348,27105,C0445,P20,2026-10-21,"Not what I expected, sadly. The robot vacuum stopped working after one month. I will not order again.",1
+1349,27109,C1161,P27,2026-10-20,I regret buying it. It is too noisy and feels cheap. I want my money back. More photos at https://example.com/reviews,2
+1350,27114,C1300,P24,2026-10-24,"Perfect, exactly what I wanted. The courier was kind and the delivery was fast. Thank you.",5
+1351,27118,C1937,P26,2026-10-21,Amazing value for the price. The customer service was friendly and helpful. My family is happy too.,4
+1352,27141,C1278,P27,2026-10-23,Awesome store. Great price and excellent quality. Worth every penny.,5
+1353,27150,C1891,P20,2026-10-24,Bad experience. The box was damaged and a part was missing. I want my money back.,2
+1354,27172,C0426,P15,2026-10-20,Amazing value for the price. Good quality and fast delivery. Will buy again.,5
+1355,27192,C1604,P18,2026-10-22,I regret buying it. It broke after a few days. I do not recommend it.,1
+1356,27194,C1196,P20,2026-10-20,Bad experience. The battery died and the robot vacuum does not start. One star.,1
+1357,27200,C1327,P26,2026-10-21,Very happy with my order. It arrived on time and well packed. Highly recommended. #onlineshop,5
+1358,27201,C0456,P20,2026-10-25,"Perfect, exactly what I wanted. The customer service was friendly and helpful. Thank you. More photos at https://example.com/reviews",4
+1359,27210,C0639,P20,2026-10-24,Waste of money. The battery died and the robot vacuum does not start. Bad service.,1
+1360,27210,C0639,P05,2026-10-23,I ORDERED IT FOR MY PARENTS. I EXPECTED A LONGER CABLE. THAT IS ALL FOR NOW.,3
+1361,27213,C0264,P20,2026-10-23,"Not what I expected, sadly. The battery died and the robot vacuum does not start. I do not recommend it.",1
+1362,27216,C1191,P20,2026-10-24,Terrible product. The battery died and the robot vacuum does not start. Avoid it.,1
+1363,27220,C1646,P02,2026-10-21,Great purchase. Great price and excellent quality. Totally worth it. More photos at https://example.com/reviews,5
+1364,27223,C0232,P20,2026-10-21,@techstore Great purchase. The customer service was friendly and helpful. Good job.,5
+1365,27230,C0838,P22,2026-10-22,Very happy with my order. Great price and excellent quality. Highly recommended.,5
+1366,27238,C1943,P26,2026-10-24,I am very satisfied. The courier was kind and the delivery was fast. Highly recommended.,5
+1367,27239,C1747,P20,2026-10-21,"Very disappointed. The battery died again, the second unit is also defective. One star.",2
+1368,27248,C1060,P20,2026-10-20,"@techstore Terrible product. Defective battery, the robot vacuum is useless now. Very annoying.",2
+1369,27258,C1526,P20,2026-10-21,BEST PURCHASE THIS YEAR. IT ARRIVED ON TIME AND WELL PACKED. HIGHLY RECOMMENDED.,5
+1370,27262,C1122,P24,2026-10-23,"PERFECT, EXACTLY WHAT I WANTED. BETTER THAN I EXPECTED. MY FAMILY IS HAPPY TOO.",5
+1371,27277,C1228,P20,2026-10-26,"Terrible product. The battery died again, the second unit is also defective. Total disappointment.",2
+1372,27286,C1892,P25,2026-10-25,Great purchase. Better than I expected. Highly recommended.,5
+1373,27288,C1214,P11,2026-10-22,I ordered it for my parents. It has two modes. Time will tell.,3
+1374,27296,C1251,P20,2026-10-24,"Bad experience. The battery died again, the second unit is also defective. One star.",2
+1375,27300,C1095,P22,2026-10-23,It does what the description says. The size is as described. Normal order.,3
+1376,27308,C1039,P21,2026-10-27,Very happy with my order. Better than I expected. Will buy again.,5
+1377,27312,C0698,P06,2026-10-23,Awesome store. Easy to use and very quiet. Five stars from me.,5
+1378,27316,C0928,P11,2026-10-22,I love this product. Better than I expected. Totally worth it.,5
+1379,27329,C1467,P13,2026-10-23,I love this product. It arrived on time and well packed. Five stars from me.,5
+1380,27346,C0593,P11,2026-10-27,I am very satisfied. It works perfectly and looks nice. My family is happy too.,5
+1381,27353,C0020,P01,2026-10-24,,5
+1382,27356,C0059,P20,2026-10-26,"Horrible purchase. Defective battery, the robot vacuum is useless now. I will not order again.",1
+1383,27371,C0192,P20,2026-10-23,"I regret buying it. The battery died again, the second unit is also defective. Avoid it.",1
+1384,27379,C1985,P05,2026-10-26,The order was delivered to the office. The courier called in advance. Nothing unusual.,3
+1385,27395,C1676,P20,2026-10-23,"Not what I expected, sadly. Defective battery, the robot vacuum is useless now. Bad service.",2
+1386,27403,C0735,P06,2026-10-26,It does what the description says. The colour is a bit different. Time will tell. More photos at https://example.com/reviews,3
+1387,27405,C1505,P18,2026-10-27,Great purchase. Great price and excellent quality. Will buy again.,5
+1388,27408,C1992,P16,2026-10-27,Amazing value for the price. The customer service was friendly and helpful. Thank you.,5
+1389,27415,C0192,P13,2026-10-24,Bad experience. The product arrived damaged. I do not recommend it.,1
+1390,27416,C0468,P14,2026-10-27,Really good product. Good quality and fast delivery. My family is happy too.,4
+1391,27419,C0106,P21,2026-10-29,AMAZING VALUE FOR THE PRICE. GREAT PRICE AND EXCELLENT QUALITY. TOTALLY WORTH IT.,5
+1392,27419,C0106,P26,2026-10-25,REALLY GOOD PRODUCT. FAST DELIVERY AND GREAT PRICE. MY FAMILY IS HAPPY TOO.,5
+1393,27425,C1993,P20,2026-10-29,"Terrible product. The battery died again, the second unit is also defective. I do not recommend it.",2
+1394,27427,C1522,P11,2026-10-25,Very happy with my order. Fast delivery and great price. I will definitely order again.,5
+1395,27460,C0956,P20,2026-10-26,Bad experience. The robot vacuum stopped working and I returned it. I will not order again.,1
+1396,27464,C1492,P06,2026-10-27,I AM VERY SATISFIED. EASY TO USE AND VERY QUIET. THANK YOU.,4
+1397,27482,C0860,P06,2026-10-25,Delivery took three days. I expected a longer cable. Normal order.,3
+1398,27491,C0719,P23,2026-10-25,I am very satisfied. The courier was kind and the delivery was fast. I will definitely order again. More photos at https://example.com/reviews,5
+1399,27497,C1881,P04,2026-10-27,@techstore Amazing value for the price. The courier was kind and the delivery was fast. Good job.,5
+1400,27499,C0484,P20,2026-10-27,Horrible purchase. It stopped charging and the support was useless. Bad service.,1
+1401,27500,C0012,P20,2026-10-28,@techstore The product arrived on Monday. The price is average. We will see how long it lasts.,3
+1402,27509,C1265,P20,2026-10-26,"Not what I expected, sadly. It stopped charging and the support was useless. Total disappointment.",1
+1403,27527,C0004,P20,2026-10-28,Waste of money. The robot vacuum stopped working after one month. Very annoying.,2
+1404,27531,C1193,P11,2026-10-31,Poor quality. It broke after a few days. I do not recommend it.,1
+1405,27539,C0885,P06,2026-10-29,I am very satisfied. It works perfectly and looks nice. I will definitely order again.,5
+1406,27541,C0164,P09,2026-10-31,Really good product. It arrived on time and well packed. I already recommended the store to a friend.,4
+1407,27556,C0121,P26,2026-10-26,Amazing value for the price. The courier was kind and the delivery was fast. Highly recommended.,4
+1408,27564,C0573,P20,2026-10-30,Awful. The battery died and the robot vacuum does not start. Very annoying. #onlineshop,2
+1409,27565,C1619,P20,2026-10-27,Awesome store. It works perfectly and looks nice. Thank you.,4
+1410,27578,C0124,P26,2026-10-27,Very happy with my order. Super easy to set up. Worth every penny.,5
+1411,27582,C0924,P20,2026-10-26,Not happy with this order. It stopped charging and the support was useless. Total disappointment.,1
+1412,27588,C1386,P27,2026-10-30,It is an average product. Used it only twice so far. Nothing unusual.,3
+1413,27589,C1758,P27,2026-10-27,Very happy with my order. It works perfectly and looks nice. My family is happy too.,5
+1414,27594,C0389,P16,2026-10-27,I regret buying it. The quality is worse than expected. I will not order again.,1
+1415,27606,C0816,P20,2026-10-31,Waste of money. The robot vacuum stopped charging after two weeks. Bad service.,1
+1416,27607,C0234,P01,2026-10-26,I love this product. Fast delivery and great price. Good job. More photos at https://example.com/reviews,4
+1417,27639,C0051,P04,2026-10-28,@techstore Waste of money. The box was damaged and a part was missing. Very annoying.,1
+1418,27640,C0796,P11,2026-10-31,It is an average product. It has two modes. Nothing more to add.,3
+1419,27651,C0359,P20,2026-10-28,"Bad experience. The battery died again, the second unit is also defective. I want my money back. More photos at https://example.com/reviews",1
+1420,27660,C1413,P20,2026-10-30,Waste of money. The battery died and the robot vacuum does not start. I will not order again.,1
+1421,27663,C1027,P20,2026-10-27,Amazing value for the price. Good quality and fast delivery. Will buy again.,5
+1422,27682,C0293,P20,2026-10-28,Awful. The battery died and the robot vacuum does not start. I do not recommend it.,1
+1423,27687,C1564,P05,2026-10-29,Awful. The box was damaged and a part was missing. One star.,2
+1424,27698,C1701,P20,2026-11-02,Not happy with this order. It stopped charging and the support was useless. Bad service. More photos at https://example.com/reviews,2
+1425,27704,C0035,P14,2026-10-30,Very happy with my order. Easy to use and very quiet. I already recommended the store to a friend.,4
+1426,27708,C1449,P20,2026-10-30,"Terrible product. Defective battery, the robot vacuum is useless now. Very annoying.",1
+1427,27719,C0908,P20,2026-11-01,I regret buying it. The battery died and the robot vacuum does not start. I am angry. More photos at https://example.com/reviews,2
+1428,27745,C1571,P15,2026-11-03,@techstore Excellent quality. The courier was kind and the delivery was fast. Totally worth it.,4
+1429,27750,C0703,P27,2026-11-02,Amazing value for the price. The courier was kind and the delivery was fast. Five stars from me.,4
+1430,27773,C0398,P09,2026-11-04,I love this product. The customer service was friendly and helpful. Totally worth it.,5
+1431,27781,C0447,P24,2026-11-04,I am very satisfied. Easy to use and very quiet. Will buy again.,4
+1432,27804,C1528,P20,2026-10-30,Amazing value for the price. The customer service was friendly and helpful. I will definitely order again.,5
+1433,27806,C1235,P09,2026-11-01,@techstore Amazing value for the price. Better than I expected. I already recommended the store to a friend.,5
+1434,27807,C0756,P14,2026-11-01,@techstore Very disappointed. It failed after the first week. I want my money back.,1
+1435,27814,C0325,P06,2026-11-04,Best purchase this year. Fast delivery and great price. Will buy again.,5
+1436,27824,C0320,P06,2026-11-03,The package came with a manual. The colour is a bit different. Maybe I will update the review later.,3
+1437,27837,C1493,P20,2026-11-03,@techstore Terrible product. The battery died after ten days. I am angry.,1
+1438,27850,C0940,P17,2026-11-02,Poor quality. The quality is worse than expected. I am angry.,2
+1439,27854,C1877,P20,2026-10-31,"TERRIBLE PRODUCT. DEFECTIVE BATTERY, THE ROBOT VACUUM IS USELESS NOW. AVOID IT.",1
+1440,27878,C0616,P18,2026-11-02,I am very satisfied. The customer service was friendly and helpful. My family is happy too. #onlineshop,5
+1441,27886,C1197,P20,2026-11-01,"Not what I expected, sadly. Defective battery, the robot vacuum is useless now. Very annoying.",2
+1442,27894,C0435,P09,2026-11-06,The package came with a manual. It is heavier than the old one. Normal order.,3
+1443,27905,C0933,P20,2026-11-03,"I regret buying it. Defective battery, the robot vacuum is useless now. Never again.",1
+1444,27909,C0735,P20,2026-11-03,"Terrible product. Defective battery, the robot vacuum is useless now. Very annoying.",2
+1445,27915,C0051,P22,2026-11-04,The order was delivered to the office. I expected a longer cable. Nothing more to add.,3
+1446,27916,C1156,P20,2026-11-05,"Poor quality. Defective battery, the robot vacuum is useless now. Bad service.",1
+1447,27923,C1264,P11,2026-11-06,Best purchase this year. Great price and excellent quality. I already recommended the store to a friend.,4
+1448,27951,C1722,P10,2026-11-05,The product arrived on Monday. The manual is only in English. We will see how long it lasts.,3
+1449,27966,C0710,P20,2026-11-04,"Very disappointed. Defective battery, the robot vacuum is useless now. Never again.",1
+1450,27997,C0558,P11,2026-11-05,EXCELLENT QUALITY. GOOD QUALITY AND FAST DELIVERY. THANK YOU.,5
+800,21338,C1485,P20,2026-07-11,"@techstore Not what I expected, sadly. The robot vacuum stopped working and I returned it. Total disappointment.",2
+869,22267,C1393,P13,2026-07-27,I love this product. It works perfectly and looks nice. Thank you.,4
+778,21124,C1668,P04,2026-07-07,I ordered it for my parents. It is the second one I buy. Nothing unusual.,3
+563,18765,C0094,P12,2026-05-20,I ordered it for my parents. It is heavier than the old one. Nothing unusual.,3
+573,18869,C0502,P18,2026-05-21,Great purchase. Easy to use and very quiet. I will definitely order again.,4
+612,19431,C0651,P11,2026-06-05,Really good product. The customer service was friendly and helpful. Good job. More photos at https://example.com/reviews,4
+1146,24955,C0596,P27,2026-09-09,REALLY GOOD PRODUCT. GOOD QUALITY AND FAST DELIVERY. HIGHLY RECOMMENDED.,5
+611,19430,C0576,P06,2026-06-01,Awesome store. It arrived on time and well packed. I already recommended the store to a friend.,4
+390,16274,C1692,P27,2026-03-24,"Perfect, exactly what I wanted. Great price and excellent quality. I will definitely order again. #onlineshop",5
+72,11311,C0427,P11,2025-12-05,"Perfect, exactly what I wanted. Fast delivery and great price. Thank you.",5
+1387,27405,C1505,P18,2026-10-27,Great purchase. Great price and excellent quality. Will buy again.,5
+607,19395,C0206,P26,2026-06-03,Amazing value for the price. It arrived on time and well packed. I will definitely order again.,5
+1143,24931,C0839,P27,2026-09-12,I love this product. The customer service was friendly and helpful. I already recommended the store to a friend.,4
+1418,27640,C0796,P11,2026-10-31,It is an average product. It has two modes. Nothing more to add.,3
+186,13064,C1596,P05,2026-01-02,@techstore Awesome store. Fast delivery and great price. Thank you.,4
+1135,24892,C1176,P10,2026-09-10,@techstore Not happy with this order. The customer service ignored my problem. Avoid it.,2
+928,22770,C0573,P04,2026-08-04,It is an average product. It has two modes. Normal order.,3
+208,13339,C0544,P03,2026-01-12,Great purchase. The customer service was friendly and helpful. Thank you. #onlineshop,5
+1019,23648,C1042,P26,2026-08-20,Really good product. Better than I expected. My family is happy too.,4
+657,19840,C1126,P11,2026-06-08,I am very satisfied. Good quality and fast delivery. Thank you.,5
+352,15529,C1475,P21,2026-03-12,I am very satisfied. Fast delivery and great price. Good job.,4
+1234,25920,C0595,P20,2026-09-27,Delivery took three days. The colour is a bit different. Nothing more to add.,3
+826,21727,C0136,P20,2026-07-16,Waste of money. The battery died after ten days. I do not recommend it.,2
+741,20816,C1599,P04,2026-07-01,It does what the description says. The price is average. Normal order. #onlineshop,3
+1385,27395,C1676,P20,2026-10-23,"Not what I expected, sadly. Defective battery, the robot vacuum is useless now. Bad service.",2
